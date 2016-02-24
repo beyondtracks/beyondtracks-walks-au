@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-12778' visible='true' lat='-33.6162597' lon='150.6302961' />
+  <node id='-12777' visible='true' lat='-33.6160365' lon='150.6306031' />
+  <node id='-12776' visible='true' lat='-33.6159293' lon='150.6307533' />
+  <node id='-12775' visible='true' lat='-33.6158936' lon='150.6309679' />
+  <node id='-12774' visible='true' lat='-33.6158042' lon='150.631161' />
+  <node id='-12773' visible='true' lat='-33.6158757' lon='150.63144' />
+  <node id='-12772' visible='true' lat='-33.6157149' lon='150.6314829' />
+  <node id='-12771' visible='true' lat='-33.6156077' lon='150.6316546' />
+  <node id='-12770' visible='true' lat='-33.6155005' lon='150.6318477' />
+  <node id='-12769' visible='true' lat='-33.6153754' lon='150.6319979' />
+  <node id='-12768' visible='true' lat='-33.6152146' lon='150.6319764' />
+  <node id='-12767' visible='true' lat='-33.615119' lon='150.6320419' />
+  <node id='-12766' visible='true' lat='-33.6151431' lon='150.6322554' />
+  <node id='-12765' visible='true' lat='-33.6151073' lon='150.6324485' />
+  <node id='-12764' visible='true' lat='-33.615018' lon='150.6326416' />
+  <node id='-12763' visible='true' lat='-33.6149286' lon='150.6329635' />
+  <node id='-12762' visible='true' lat='-33.6148572' lon='150.6332639' />
+  <node id='-12761' visible='true' lat='-33.6148214' lon='150.6336287' />
+  <node id='-12760' visible='true' lat='-33.6147857' lon='150.6339291' />
+  <node id='-12759' visible='true' lat='-33.6147142' lon='150.634208' />
+  <way id='-12758' action='modify' visible='true'>
+    <nd ref='-12759' />
+    <nd ref='-12760' />
+    <nd ref='-12761' />
+    <nd ref='-12762' />
+    <nd ref='-12763' />
+    <nd ref='-12764' />
+    <nd ref='-12765' />
+    <nd ref='-12766' />
+    <nd ref='-12767' />
+    <nd ref='-12768' />
+    <nd ref='-12769' />
+    <nd ref='-12770' />
+    <nd ref='-12771' />
+    <nd ref='-12772' />
+    <nd ref='-12773' />
+    <nd ref='-12774' />
+    <nd ref='-12775' />
+    <nd ref='-12776' />
+    <nd ref='-12777' />
+    <nd ref='-12778' />
+    <tag k='name' v='The Wire' />
+    <tag k='park' v='Blue Mountains National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

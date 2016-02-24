@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-161629' visible='true' lat='-34.3408339' lon='150.4920605' />
+  <node id='-161630' visible='true' lat='-34.3406269' lon='150.4921642' />
+  <node id='-161631' visible='true' lat='-34.3404072' lon='150.4924817' />
+  <node id='-161632' visible='true' lat='-34.3402301' lon='150.4928508' />
+  <node id='-161633' visible='true' lat='-34.3400812' lon='150.4933057' />
+  <node id='-161634' visible='true' lat='-34.3396702' lon='150.4935718' />
+  <node id='-161635' visible='true' lat='-34.3393513' lon='150.4938035' />
+  <node id='-161636' visible='true' lat='-34.3385788' lon='150.4945245' />
+  <node id='-161637' visible='true' lat='-34.3377779' lon='150.4954686' />
+  <node id='-161638' visible='true' lat='-34.336892' lon='150.4958377' />
+  <node id='-161639' visible='true' lat='-34.3365305' lon='150.4957519' />
+  <node id='-161640' visible='true' lat='-34.3363321' lon='150.4958205' />
+  <node id='-161641' visible='true' lat='-34.3360982' lon='150.4956832' />
+  <node id='-161642' visible='true' lat='-34.3358572' lon='150.4960437' />
+  <node id='-161643' visible='true' lat='-34.3357226' lon='150.4966274' />
+  <node id='-161644' visible='true' lat='-34.3356957' lon='150.4969449' />
+  <node id='-161645' visible='true' lat='-34.335709' lon='150.4976087' />
+  <node id='-161646' visible='true' lat='-34.3355672' lon='150.4986172' />
+  <node id='-161647' visible='true' lat='-34.3354255' lon='150.4993897' />
+  <node id='-161648' visible='true' lat='-34.3353723' lon='150.5000764' />
+  <node id='-161649' visible='true' lat='-34.3354609' lon='150.500763' />
+  <node id='-161650' visible='true' lat='-34.3352306' lon='150.5009347' />
+  <node id='-161651' visible='true' lat='-34.3350179' lon='150.5006343' />
+  <node id='-161652' visible='true' lat='-34.3348585' lon='150.5001836' />
+  <node id='-161653' visible='true' lat='-34.3348408' lon='150.4998189' />
+  <node id='-161654' visible='true' lat='-34.3349471' lon='150.4993468' />
+  <node id='-161655' visible='true' lat='-34.3351243' lon='150.4990035' />
+  <node id='-161656' visible='true' lat='-34.3352128' lon='150.4985099' />
+  <node id='-161657' visible='true' lat='-34.33523' lon='150.4982243' />
+  <node id='-161692' action='modify' visible='true' lat='-34.33564323214' lon='150.49700894401' />
+  <node id='-161694' action='modify' visible='true' lat='-34.33559654277' lon='150.49695240208' />
+  <node id='-161696' action='modify' visible='true' lat='-34.33557417076' lon='150.49689468219' />
+  <node id='-161698' action='modify' visible='true' lat='-34.33550413664' lon='150.49683578435' />
+  <node id='-161700' action='modify' visible='true' lat='-34.33547981922' lon='150.49689939402' />
+  <node id='-161702' action='modify' visible='true' lat='-34.33525220783' lon='150.49781348855' />
+  <way id='-161628' action='modify' visible='true'>
+    <nd ref='-161629' />
+    <nd ref='-161630' />
+    <nd ref='-161631' />
+    <nd ref='-161632' />
+    <nd ref='-161633' />
+    <nd ref='-161634' />
+    <nd ref='-161635' />
+    <nd ref='-161636' />
+    <nd ref='-161637' />
+    <nd ref='-161638' />
+    <nd ref='-161639' />
+    <nd ref='-161640' />
+    <nd ref='-161641' />
+    <nd ref='-161642' />
+    <nd ref='-161643' />
+    <nd ref='-161644' />
+    <nd ref='-161645' />
+    <nd ref='-161646' />
+    <nd ref='-161647' />
+    <nd ref='-161648' />
+    <nd ref='-161649' />
+    <nd ref='-161650' />
+    <nd ref='-161651' />
+    <nd ref='-161652' />
+    <nd ref='-161653' />
+    <nd ref='-161654' />
+    <nd ref='-161655' />
+    <nd ref='-161656' />
+    <nd ref='-161657' />
+    <tag k='name' v='Cave Creek' />
+    <tag k='park' v='Bargo River State Conservation Area' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+  <way id='-161693' action='modify' visible='true'>
+    <nd ref='-161657' />
+    <nd ref='-161702' />
+    <nd ref='-161700' />
+    <nd ref='-161698' />
+    <nd ref='-161696' />
+    <nd ref='-161694' />
+    <nd ref='-161692' />
+    <nd ref='-161644' />
+    <tag k='name' v='Cave Creek Cave' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='oneway' />
+  </way>
+</osm>

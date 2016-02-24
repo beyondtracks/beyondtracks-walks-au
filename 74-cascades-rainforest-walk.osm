@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-2718' visible='true' lat='-34.570888' lon='150.6778922' />
+  <node id='-2717' visible='true' lat='-34.5714219' lon='150.6782547' />
+  <node id='-2716' visible='true' lat='-34.5675689' lon='150.6742739' />
+  <node id='-2715' visible='true' lat='-34.5677224' lon='150.6747318' />
+  <node id='-2714' visible='true' lat='-34.5677719' lon='150.6748313' />
+  <node id='-2713' visible='true' lat='-34.5679408' lon='150.6752643' />
+  <node id='-2712' visible='true' lat='-34.5680346' lon='150.6754176' />
+  <node id='-2711' visible='true' lat='-34.5681711' lon='150.6754135' />
+  <node id='-2710' visible='true' lat='-34.5682837' lon='150.6754259' />
+  <node id='-2709' visible='true' lat='-34.5685345' lon='150.6757595' />
+  <node id='-2708' visible='true' lat='-34.5688297' lon='150.67618' />
+  <node id='-2707' visible='true' lat='-34.5690241' lon='150.6763064' />
+  <node id='-2706' visible='true' lat='-34.5692084' lon='150.6763458' />
+  <node id='-2705' visible='true' lat='-34.5694472' lon='150.6764017' />
+  <node id='-2704' visible='true' lat='-34.5695957' lon='150.6764991' />
+  <node id='-2703' visible='true' lat='-34.5699198' lon='150.6766711' />
+  <node id='-2702' visible='true' lat='-34.5699232' lon='150.6769798' />
+  <node id='-2701' visible='true' lat='-34.569971' lon='150.6772015' />
+  <node id='-2700' visible='true' lat='-34.5700785' lon='150.6773921' />
+  <node id='-2699' visible='true' lat='-34.5701877' lon='150.6775931' />
+  <node id='-2698' visible='true' lat='-34.5704828' lon='150.6776739' />
+  <node id='-2697' visible='true' lat='-34.5672464' lon='150.6728423' />
+  <node id='-2696' visible='true' lat='-34.5673368' lon='150.6728444' />
+  <node id='-2695' visible='true' lat='-34.567359' lon='150.6730515' />
+  <node id='-2694' visible='true' lat='-34.5674187' lon='150.6731966' />
+  <node id='-2693' visible='true' lat='-34.567475' lon='150.6733561' />
+  <node id='-2692' visible='true' lat='-34.5675228' lon='150.6736648' />
+  <node id='-2691' visible='true' lat='-34.5675023' lon='150.6738492' />
+  <node id='-2690' visible='true' lat='-34.5675194' lon='150.6740295' />
+  <way id='-2689' action='modify' visible='true'>
+    <nd ref='-2717' />
+    <nd ref='-2718' />
+    <nd ref='-2698' />
+    <nd ref='-2699' />
+    <nd ref='-2700' />
+    <nd ref='-2701' />
+    <nd ref='-2702' />
+    <nd ref='-2703' />
+    <nd ref='-2704' />
+    <nd ref='-2705' />
+    <nd ref='-2706' />
+    <nd ref='-2707' />
+    <nd ref='-2708' />
+    <nd ref='-2709' />
+    <nd ref='-2710' />
+    <nd ref='-2711' />
+    <nd ref='-2712' />
+    <nd ref='-2713' />
+    <nd ref='-2714' />
+    <nd ref='-2715' />
+    <nd ref='-2716' />
+    <nd ref='-2690' />
+    <nd ref='-2691' />
+    <nd ref='-2692' />
+    <nd ref='-2693' />
+    <nd ref='-2694' />
+    <nd ref='-2695' />
+    <nd ref='-2696' />
+    <nd ref='-2697' />
+    <tag k='name' v='Cascades Rainforest Walk' />
+    <tag k='park' v='Macquarie Pass National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

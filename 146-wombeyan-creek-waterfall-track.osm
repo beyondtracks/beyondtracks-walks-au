@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-4160' visible='true' lat='-34.30268405536' lon='149.97181724157' />
+  <node id='-4159' visible='true' lat='-34.30233027327' lon='149.97198854935' />
+  <node id='-4158' visible='true' lat='-34.30176421881' lon='149.97213844365' />
+  <node id='-4157' visible='true' lat='-34.3007382354' lon='149.97250247268' />
+  <node id='-4156' visible='true' lat='-34.30027830773' lon='149.97213844365' />
+  <node id='-4155' visible='true' lat='-34.29978299819' lon='149.97280226129' />
+  <node id='-4154' visible='true' lat='-34.2986154713' lon='149.97342325198' />
+  <node id='-4153' visible='true' lat='-34.29858009144' lon='149.97370162712' />
+  <node id='-4152' visible='true' lat='-34.29790787134' lon='149.97434403128' />
+  <node id='-4151' visible='true' lat='-34.29767790007' lon='149.97487936808' />
+  <node id='-4150' visible='true' lat='-34.29647496317' lon='149.9741727235' />
+  <node id='-4149' visible='true' lat='-34.29580272623' lon='149.97415131003' />
+  <node id='-4148' visible='true' lat='-34.29528969968' lon='149.97421555045' />
+  <node id='-4147' visible='true' lat='-34.29505972124' lon='149.9740228292' />
+  <node id='-4146' visible='true' lat='-34.29482974217' lon='149.97239540532' />
+  <node id='-4145' visible='true' lat='-34.2944405454' lon='149.97211703018' />
+  <node id='-4144' visible='true' lat='-34.29387443777' lon='149.97224551101' />
+  <node id='-4143' visible='true' lat='-34.29355600056' lon='149.97181724157' />
+  <node id='-4142' visible='true' lat='-34.29304296029' lon='149.97177441463' />
+  <node id='-4141' visible='true' lat='-34.29244146081' lon='149.97224551101' />
+  <node id='-4140' visible='true' lat='-34.29194610506' lon='149.97215985713' />
+  <way id='-4139' action='modify' visible='true'>
+    <nd ref='-4160' />
+    <nd ref='-4159' />
+    <nd ref='-4158' />
+    <nd ref='-4157' />
+    <nd ref='-4156' />
+    <nd ref='-4155' />
+    <nd ref='-4154' />
+    <nd ref='-4153' />
+    <nd ref='-4152' />
+    <nd ref='-4151' />
+    <nd ref='-4150' />
+    <nd ref='-4149' />
+    <nd ref='-4148' />
+    <nd ref='-4147' />
+    <nd ref='-4146' />
+    <nd ref='-4145' />
+    <nd ref='-4144' />
+    <nd ref='-4143' />
+    <nd ref='-4142' />
+    <nd ref='-4141' />
+    <nd ref='-4140' />
+    <tag k='name' v='Wombeyan Creek Waterfall Track' />
+    <tag k='park' v='Wombeyan Karst Conservation Reserve' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
