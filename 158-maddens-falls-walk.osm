@@ -1,50 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='JOSM'>
-  <node id='-142840' visible='true' lat='-34.2371791' lon='150.9175995' />
-  <node id='-142841' visible='true' lat='-34.2372535' lon='150.9174875' />
-  <node id='-142842' action='modify' visible='true' lat='-34.2372898' lon='150.9174329' />
-  <node id='-142843' visible='true' lat='-34.2373518' lon='150.9173753' />
-  <node id='-142844' visible='true' lat='-34.2376821' lon='150.9170686' />
-  <node id='-142845' visible='true' lat='-34.2382361' lon='150.9171006' />
-  <node id='-142846' visible='true' lat='-34.2387556' lon='150.9168535' />
-  <node id='-142847' visible='true' lat='-34.2388879' lon='150.9168227' />
-  <node id='-142850' visible='true' lat='-34.2389793' lon='150.9166496' />
-  <node id='-142851' visible='true' lat='-34.2390288' lon='150.9165619' />
-  <node id='-142852' visible='true' lat='-34.2390448' lon='150.9163773' />
-  <node id='-142853' visible='true' lat='-34.2390422' lon='150.9160624' />
-  <node id='-142854' visible='true' lat='-34.2390334' lon='150.9159429' />
-  <node id='-142855' visible='true' lat='-34.2390293' lon='150.915888' />
-  <node id='-142856' visible='true' lat='-34.2388758' lon='150.915349' />
-  <node id='-142857' visible='true' lat='-34.2387002' lon='150.9149845' />
-  <node id='-142858' visible='true' lat='-34.238654' lon='150.9145349' />
-  <node id='-142859' visible='true' lat='-34.238593' lon='150.9143024' />
-  <node id='-142860' visible='true' lat='-34.2384934' lon='150.9141273' />
-  <node id='-142861' visible='true' lat='-34.2386071' lon='150.9139517' />
-  <node id='-142862' action='modify' visible='true' lat='-34.2387261' lon='150.9138126' />
-  <way id='-142836' action='modify' visible='true'>
-    <nd ref='-142840' />
-    <nd ref='-142841' />
-    <nd ref='-142842' />
-    <nd ref='-142843' />
-    <nd ref='-142844' />
-    <nd ref='-142845' />
-    <nd ref='-142846' />
-    <nd ref='-142847' />
-    <nd ref='-142850' />
-    <nd ref='-142851' />
-    <nd ref='-142852' />
-    <nd ref='-142853' />
-    <nd ref='-142854' />
-    <nd ref='-142855' />
-    <nd ref='-142856' />
-    <nd ref='-142857' />
-    <nd ref='-142858' />
-    <nd ref='-142859' />
-    <nd ref='-142860' />
-    <nd ref='-142861' />
-    <nd ref='-142862' />
+  <node id='-141252' visible='true' lat='-34.2371791' lon='150.9175995' />
+  <node id='-141254' visible='true' lat='-34.2372535' lon='150.9174875' />
+  <node id='-141256' action='modify' visible='true' lat='-34.2372898' lon='150.9174329' />
+  <node id='-141258' visible='true' lat='-34.2373518' lon='150.9173753' />
+  <node id='-141260' visible='true' lat='-34.2376821' lon='150.9170686' />
+  <node id='-141262' visible='true' lat='-34.2382361' lon='150.9171006' />
+  <node id='-141264' visible='true' lat='-34.2387556' lon='150.9168535' />
+  <node id='-141266' visible='true' lat='-34.2388879' lon='150.9168227' />
+  <node id='-141268' visible='true' lat='-34.2389793' lon='150.9166496' />
+  <node id='-141270' visible='true' lat='-34.2390288' lon='150.9165619' />
+  <node id='-141272' visible='true' lat='-34.2390448' lon='150.9163773' />
+  <node id='-141274' visible='true' lat='-34.2390422' lon='150.9160624' />
+  <node id='-141276' visible='true' lat='-34.2390334' lon='150.9159429' />
+  <node id='-141278' visible='true' lat='-34.2390293' lon='150.915888' />
+  <node id='-141280' visible='true' lat='-34.2388758' lon='150.915349' />
+  <node id='-141282' visible='true' lat='-34.2387002' lon='150.9149845' />
+  <node id='-141284' visible='true' lat='-34.238654' lon='150.9145349' />
+  <node id='-141286' visible='true' lat='-34.238593' lon='150.9143024' />
+  <node id='-141288' visible='true' lat='-34.2384934' lon='150.9141273' />
+  <node id='-141290' visible='true' lat='-34.2386071' lon='150.9139517' />
+  <node id='-141292' action='modify' visible='true' lat='-34.2387261' lon='150.9138126' />
+  <way id='-141294' action='modify' visible='true'>
+    <nd ref='-141252' />
+    <nd ref='-141254' />
+    <nd ref='-141256' />
+    <nd ref='-141258' />
+    <nd ref='-141260' />
+    <nd ref='-141262' />
+    <nd ref='-141264' />
+    <nd ref='-141266' />
+    <nd ref='-141268' />
+    <nd ref='-141270' />
+    <nd ref='-141272' />
+    <nd ref='-141274' />
+    <nd ref='-141276' />
+    <nd ref='-141278' />
+    <nd ref='-141280' />
+    <nd ref='-141282' />
+    <nd ref='-141284' />
+    <nd ref='-141286' />
+    <nd ref='-141288' />
+    <nd ref='-141290' />
+    <nd ref='-141292' />
     <tag k='name' v='Maddens Falls Walk' />
     <tag k='park' v='Dharawal National Park' />
+    <tag k='photo' v='22660395923' />
     <tag k='role' v='primary' />
     <tag k='style' v='return' />
     <tag k='transport' v='car' />
