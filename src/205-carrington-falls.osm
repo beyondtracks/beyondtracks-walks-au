@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-1090' visible='true' lat='-34.6204163' lon='150.6420255' />
+  <node id='-1091' visible='true' lat='-34.6208136' lon='150.6423044' />
+  <node id='-1092' visible='true' lat='-34.6212815' lon='150.6423044' />
+  <node id='-1093' visible='true' lat='-34.6202097' lon='150.6413527' />
+  <node id='-1094' visible='true' lat='-34.6206915' lon='150.6409241' />
+  <node id='-1095' visible='true' lat='-34.618526' lon='150.6445022' />
+  <node id='-1096' visible='true' lat='-34.6196128' lon='150.6434417' />
+  <node id='-1097' visible='true' lat='-34.6187476' lon='150.6461561' />
+  <node id='-1098' visible='true' lat='-34.6204781' lon='150.6458342' />
+  <node id='-1099' visible='true' lat='-34.6211403' lon='150.6502223' />
+  <node id='-1100' visible='true' lat='-34.621361' lon='150.652647' />
+  <node id='-1101' visible='true' lat='-34.6217848' lon='150.6529903' />
+  <node id='-1102' visible='true' lat='-34.6225353' lon='150.6530976' />
+  <node id='-1103' visible='true' lat='-34.623321' lon='150.653162' />
+  <node id='-1104' visible='true' lat='-34.6229286' lon='150.6551181' />
+  <node id='-1105' visible='true' lat='-34.6228978' lon='150.6542382' />
+  <node id='-1106' visible='true' lat='-34.6239228' lon='150.6520119' />
+  <node id='-1107' visible='true' lat='-34.6239781' lon='150.6513436' />
+  <node id='-1108' visible='true' lat='-34.6238772' lon='150.6509403' />
+  <node id='-1109' visible='true' lat='-34.6237666' lon='150.650798' />
+  <node id='-1110' visible='true' lat='-34.6237666' lon='150.6499399' />
+  <node id='-1111' visible='true' lat='-34.6236202' lon='150.6495958' />
+  <node id='-1112' visible='true' lat='-34.6238056' lon='150.6493349' />
+  <node id='-1120' visible='true' lat='-34.623114' lon='150.6560086' />
+  <node id='-1121' visible='true' lat='-34.6231317' lon='150.6557511' />
+  <node id='-1122' visible='true' lat='-34.6230876' lon='150.6555365' />
+  <node id='-1123' visible='true' lat='-34.6235169' lon='150.6556442' />
+  <node id='-1124' visible='true' lat='-34.623417' lon='150.6558124' />
+  <node id='-1125' visible='true' lat='-34.6233055' lon='150.6560178' />
+  <node id='-1126' visible='true' lat='-34.6237937' lon='150.6555681' />
+  <node id='-1128' action='modify' visible='true' lat='-34.62527405647' lon='150.65439247735' />
+  <node id='-1129' action='modify' visible='true' lat='-34.62500361889' lon='150.65452073794' />
+  <node id='-1130' visible='true' lat='-34.6246142' lon='150.6550894' />
+  <node id='-1131' action='modify' visible='true' lat='-34.6244154' lon='150.6551266' />
+  <node id='-1132' visible='true' lat='-34.6239836' lon='150.6553513' />
+  <node id='-1133' action='modify' visible='true' lat='-34.62394171751' lon='150.65549937711' />
+  <node id='-1136' visible='true' lat='-34.6254446' lon='150.6548934' />
+  <node id='-1137' visible='true' lat='-34.6254464' lon='150.6545882' />
+  <node id='-1138' action='modify' visible='true' lat='-34.6253496822' lon='150.65443451334' />
+  <node id='-1183' action='modify' visible='true' lat='-34.6256036063' lon='150.65535777355' />
+  <node id='-1185' action='modify' visible='true' lat='-34.62577867039' lon='150.6554475028' />
+  <node id='-1222' action='modify' visible='true' lat='-34.62496408331' lon='150.65422747442' />
+  <node id='-1229' action='modify' visible='true' lat='-34.62496170146' lon='150.65424339413' />
+  <node id='-1241' action='modify' visible='true' lat='-34.62511413942' lon='150.65434180686' />
+  <way id='-1075' action='modify' visible='true'>
+    <nd ref='-1090' />
+    <nd ref='-1091' />
+    <nd ref='-1092' />
+    <tag k='name' v='Missingham Lookout' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='return' />
+  </way>
+  <way id='-1076' action='modify' visible='true'>
+    <nd ref='-1103' />
+    <nd ref='-1102' />
+    <nd ref='-1101' />
+    <nd ref='-1100' />
+    <nd ref='-1099' />
+    <nd ref='-1098' />
+    <nd ref='-1097' />
+    <nd ref='-1095' />
+    <nd ref='-1096' />
+    <nd ref='-1090' />
+    <nd ref='-1093' />
+    <nd ref='-1094' />
+    <tag k='name' v='Missingham Lookout' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='return' />
+  </way>
+  <way id='-1079' action='modify' visible='true'>
+    <nd ref='-1185' />
+    <nd ref='-1183' />
+    <nd ref='-1136' />
+    <nd ref='-1137' />
+    <nd ref='-1138' />
+    <nd ref='-1128' />
+    <nd ref='-1222' />
+    <nd ref='-1229' />
+    <nd ref='-1241' />
+    <nd ref='-1129' />
+    <nd ref='-1130' />
+    <nd ref='-1131' />
+    <nd ref='-1132' />
+    <nd ref='-1133' />
+    <nd ref='-1126' />
+    <nd ref='-1123' />
+    <nd ref='-1124' />
+    <nd ref='-1125' />
+    <nd ref='-1120' />
+    <nd ref='-1121' />
+    <nd ref='-1122' />
+    <nd ref='-1104' />
+    <nd ref='-1105' />
+    <nd ref='-1103' />
+    <nd ref='-1106' />
+    <nd ref='-1107' />
+    <nd ref='-1108' />
+    <nd ref='-1109' />
+    <nd ref='-1110' />
+    <nd ref='-1111' />
+    <nd ref='-1112' />
+    <tag k='name' v='Carrington Falls' />
+    <tag k='park' v='Budderoo National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
