@@ -702,7 +702,7 @@
     <tag k='park' v='Bomaderry Creek Regional Park' />
     <tag k='role' v='primary' />
     <tag k='style' v='loop' />
-    <tag k='transport' v='car;train+walk' />
+    <tag k='transport' v='car;train+foot' />
   </way>
   <way id='-198711' action='modify' visible='true'>
     <nd ref='-198991' />

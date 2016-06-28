@@ -918,7 +918,7 @@
     <tag k='park' v='Ku-ring-gai Chase National Park' />
     <tag k='role' v='primary' />
     <tag k='style' v='oneway' />
-    <tag k='transport' v='carshuffle;car+walk' />
+    <tag k='transport' v='carshuffle;car+foot' />
   </way>
   <way id='-176118' action='modify' visible='true'>
     <nd ref='-167319' />
