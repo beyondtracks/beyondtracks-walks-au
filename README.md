@@ -11,7 +11,7 @@ This repository contains a derivative database of OpenStreetMap and as such is l
 
 When using this data in other works, please provide attribution. For example:
 
-    Contains data from BeyondTracks.com.
+    Contains data from [BeyondTracks.com](https://www.beyondtracks.com).
 
 # Schema
 * **name** Either a commonly known name for the walk or start/end points including a notable waypoint if it's necessary to avoid ambiguity.
