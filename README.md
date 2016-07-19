@@ -5,7 +5,13 @@ They were created in [JOSM](https://josm.openstreetmap.de/) partially derived fr
 New walks Australia wide are welcome for contribution, but I reserve editorial decisions on what's included. 
 
 # License
-This repository is licensed under the ODBL as they are derived from OSM data.
+Contains information from OpenStreetMap copyright OpenStreetMap contributors, which is made available here under the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/).
+
+This repository contains a derivative database of OpenStreetMap and as such is licensed under the [ODBL](http://opendatacommons.org/licenses/odbl/1.0/).
+
+When using this data in other works, please provide attribution. For example:
+
+    Contains data from BeyondTracks.com.
 
 # Schema
 * **name** Either a commonly known name for the walk or start/end points including a notable waypoint if it's necessary to avoid ambiguity.
