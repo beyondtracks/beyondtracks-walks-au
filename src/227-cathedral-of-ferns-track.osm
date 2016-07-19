@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-470' visible='true' lat='-33.5003' lon='150.3911341' />
+  <node id='-472' visible='true' lat='-33.5002568' lon='150.391125' />
+  <node id='-474' visible='true' lat='-33.500205' lon='150.3911227' />
+  <node id='-476' visible='true' lat='-33.5001054' lon='150.3911204' />
+  <node id='-478' visible='true' lat='-33.5000011' lon='150.3910822' />
+  <node id='-480' visible='true' lat='-33.4998967' lon='150.3911169' />
+  <node id='-482' visible='true' lat='-33.4997982' lon='150.3911691' />
+  <node id='-484' visible='true' lat='-33.499717' lon='150.3912212' />
+  <node id='-486' visible='true' lat='-33.4996674' lon='150.3912607' />
+  <node id='-488' visible='true' lat='-33.4995721' lon='150.3913151' />
+  <node id='-490' visible='true' lat='-33.4995055' lon='150.3913827' />
+  <node id='-492' visible='true' lat='-33.4994627' lon='150.3914386' />
+  <node id='-494' visible='true' lat='-33.4994514' lon='150.3915182' />
+  <node id='-496' visible='true' lat='-33.4995038' lon='150.39169' />
+  <node id='-498' visible='true' lat='-33.4995635' lon='150.3918026' />
+  <node id='-500' visible='true' lat='-33.4996943' lon='150.3918142' />
+  <node id='-502' visible='true' lat='-33.4998236' lon='150.3917959' />
+  <node id='-504' visible='true' lat='-33.4999028' lon='150.3916861' />
+  <node id='-506' visible='true' lat='-33.5000557' lon='150.3915457' />
+  <node id='-508' visible='true' lat='-33.5001375' lon='150.391462' />
+  <node id='-510' visible='true' lat='-33.5001908' lon='150.3914404' />
+  <node id='-512' visible='true' lat='-33.5002177' lon='150.3914065' />
+  <node id='-514' action='modify' visible='true' lat='-33.50031840838' lon='150.39121707176' />
+  <way id='-516' action='modify' visible='true'>
+    <nd ref='-470' />
+    <nd ref='-472' />
+    <nd ref='-474' />
+    <nd ref='-476' />
+    <nd ref='-478' />
+    <nd ref='-480' />
+    <nd ref='-482' />
+    <nd ref='-484' />
+    <nd ref='-486' />
+    <nd ref='-488' />
+    <nd ref='-490' />
+    <nd ref='-492' />
+    <nd ref='-494' />
+    <nd ref='-496' />
+    <nd ref='-498' />
+    <nd ref='-500' />
+    <nd ref='-502' />
+    <nd ref='-504' />
+    <nd ref='-506' />
+    <nd ref='-508' />
+    <nd ref='-510' />
+    <nd ref='-512' />
+    <nd ref='-514' />
+    <tag k='name' v='Cathedral of Ferns Track' />
+    <tag k='photo' v='27759529653' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='loop' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-518' action='modify' visible='true' lat='-33.50830016616' lon='150.37564679881' />
+  <node id='-520' visible='true' lat='-33.5082832' lon='150.3756639' />
+  <node id='-522' visible='true' lat='-33.5080685' lon='150.3758356' />
+  <node id='-524' visible='true' lat='-33.5077822' lon='150.3760716' />
+  <node id='-526' visible='true' lat='-33.5076928' lon='150.3763721' />
+  <node id='-528' visible='true' lat='-33.5076212' lon='150.376651' />
+  <node id='-530' visible='true' lat='-33.5077464' lon='150.3768656' />
+  <node id='-532' visible='true' lat='-33.5079969' lon='150.3769729' />
+  <node id='-534' visible='true' lat='-33.5082653' lon='150.3771016' />
+  <node id='-536' visible='true' lat='-33.50848' lon='150.3772733' />
+  <node id='-538' visible='true' lat='-33.5087305' lon='150.3772947' />
+  <node id='-540' visible='true' lat='-33.5090346' lon='150.3773591' />
+  <node id='-542' visible='true' lat='-33.509303' lon='150.3774449' />
+  <node id='-544' visible='true' lat='-33.5095714' lon='150.3775308' />
+  <node id='-546' visible='true' lat='-33.5098755' lon='150.3775951' />
+  <node id='-548' visible='true' lat='-33.510126' lon='150.3777883' />
+  <node id='-550' visible='true' lat='-33.5103049' lon='150.3778097' />
+  <node id='-552' visible='true' lat='-33.5103049' lon='150.3776381' />
+  <node id='-554' visible='true' lat='-33.5104301' lon='150.3774235' />
+  <node id='-556' visible='true' lat='-33.5105017' lon='150.3771445' />
+  <node id='-558' visible='true' lat='-33.510448' lon='150.3769085' />
+  <node id='-560' visible='true' lat='-33.5103228' lon='150.3766725' />
+  <node id='-562' visible='true' lat='-33.5102333' lon='150.3764793' />
+  <node id='-564' visible='true' lat='-33.5101081' lon='150.3765866' />
+  <node id='-566' visible='true' lat='-33.5098755' lon='150.3765652' />
+  <node id='-568' visible='true' lat='-33.5098755' lon='150.3762433' />
+  <node id='-570' visible='true' lat='-33.5097324' lon='150.3759214' />
+  <node id='-572' visible='true' lat='-33.5096966' lon='150.3756854' />
+  <node id='-574' visible='true' lat='-33.5098397' lon='150.3753421' />
+  <node id='-576' visible='true' lat='-33.509804' lon='150.3750202' />
+  <node id='-578' visible='true' lat='-33.5096429' lon='150.3748486' />
+  <node id='-580' visible='true' lat='-33.5093746' lon='150.3748056' />
+  <node id='-582' visible='true' lat='-33.5090704' lon='150.37487' />
+  <node id='-584' visible='true' lat='-33.5086768' lon='150.3750202' />
+  <node id='-586' action='modify' visible='true' lat='-33.50853139556' lon='150.37534606935' />
+  <way id='-588' action='modify' visible='true'>
+    <nd ref='-520' />
+    <nd ref='-522' />
+    <nd ref='-524' />
+    <nd ref='-526' />
+    <nd ref='-528' />
+    <nd ref='-530' />
+    <nd ref='-532' />
+    <nd ref='-534' />
+    <nd ref='-536' />
+    <nd ref='-538' />
+    <nd ref='-540' />
+    <nd ref='-542' />
+    <nd ref='-544' />
+    <nd ref='-546' />
+    <nd ref='-548' />
+    <nd ref='-550' />
+    <nd ref='-552' />
+    <nd ref='-554' />
+    <nd ref='-556' />
+    <nd ref='-558' />
+    <nd ref='-560' />
+    <nd ref='-562' />
+    <nd ref='-564' />
+    <nd ref='-566' />
+    <nd ref='-568' />
+    <nd ref='-570' />
+    <nd ref='-572' />
+    <nd ref='-574' />
+    <nd ref='-576' />
+    <nd ref='-578' />
+    <nd ref='-580' />
+    <nd ref='-582' />
+    <nd ref='-584' />
+    <nd ref='-586' />
+    <nd ref='-518' />
+    <tag k='name' v='Mount Wilson Waterfall Track' />
+    <tag k='park' v='Blue Mountains National Park' />
+    <tag k='photo' v='28375507115' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='loop' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
