@@ -9,9 +9,7 @@ Contains information from OpenStreetMap copyright OpenStreetMap contributors, wh
 
 This repository contains a derivative database of OpenStreetMap and as such is licensed under the [ODBL](http://opendatacommons.org/licenses/odbl/1.0/).
 
-When using this data in other works, please provide attribution. For example:
-
-    Contains data from [BeyondTracks.com](https://www.beyondtracks.com).
+When using this data in other works, please provide attribution. For example: "Contains data from [BeyondTracks.com](https://www.beyondtracks.com)."
 
 # Schema
 * **name** Either a commonly known name for the walk or start/end points including a notable waypoint if it's necessary to avoid ambiguity.
