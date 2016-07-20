@@ -176,10 +176,10 @@
   <node id='-220915' visible='true' lat='-36.0547317' lon='150.1412982' />
   <node id='-220916' visible='true' lat='-36.0545164' lon='150.1412669' />
   <node id='-220917' visible='true' lat='-36.0542365' lon='150.1411908'>
-    <tag k='created_by' v='JOSM' />
+    
   </node>
   <node id='-220918' visible='true' lat='-36.0541781' lon='150.1412153'>
-    <tag k='created_by' v='JOSM' />
+    
   </node>
   <node id='-220919' visible='true' lat='-36.054116' lon='150.1411959' />
   <node id='-220920' visible='true' lat='-36.0540354' lon='150.1411295' />
@@ -203,7 +203,7 @@
   <node id='-221014' visible='true' lat='-36.0631352' lon='150.1405737' />
   <node id='-221015' visible='true' lat='-36.0629475' lon='150.1401246' />
   <node id='-221016' visible='true' lat='-36.0627686' lon='150.1399388'>
-    <tag k='created_by' v='JOSM' />
+    
   </node>
   <node id='-221027' action='modify' visible='true' lat='-36.06268107745' lon='150.13959463764' />
   <node id='-221066' action='modify' visible='true' lat='-36.05075275872' lon='150.14065545131' />
