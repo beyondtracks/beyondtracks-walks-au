@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-10892' action='modify' visible='true' lat='-35.19416361836' lon='150.51862404788' />
+  <node id='-10893' action='modify' visible='true' lat='-35.19403539147' lon='150.51882521355' />
+  <node id='-10894' action='modify' visible='true' lat='-35.19404744699' lon='150.51924632037' />
+  <node id='-10895' action='modify' visible='true' lat='-35.19401895211' lon='150.51935092652' />
+  <node id='-10896' action='modify' visible='true' lat='-35.19402991168' lon='150.5194635793' />
+  <node id='-10897' action='modify' visible='true' lat='-35.19399703296' lon='150.51992760146' />
+  <node id='-10898' action='modify' visible='true' lat='-35.19402114402' lon='150.51996515239' />
+  <node id='-10899' action='modify' visible='true' lat='-35.19408909335' lon='150.51999197448' />
+  <node id='-10900' action='modify' visible='true' lat='-35.1941153963' lon='150.52007244075' />
+  <node id='-10901' action='modify' visible='true' lat='-35.19410443674' lon='150.52023337329' />
+  <node id='-10902' action='modify' visible='true' lat='-35.194097861' lon='150.52030579293' />
+  <node id='-10903' action='modify' visible='true' lat='-35.1940321036' lon='150.52038357699' />
+  <node id='-10904' action='modify' visible='true' lat='-35.1939751138' lon='150.52049354756' />
+  <node id='-10905' action='modify' visible='true' lat='-35.19399703296' lon='150.52057937825' />
+  <node id='-10906' action='modify' visible='true' lat='-35.19400580062' lon='150.5206544801' />
+  <node id='-10907' action='modify' visible='true' lat='-35.19389182095' lon='150.52102998936' />
+  <node id='-10908' action='modify' visible='true' lat='-35.19386113409' lon='150.52108631575' />
+  <node id='-10909' action='modify' visible='true' lat='-35.19387647752' lon='150.52114264214' />
+  <node id='-10910' action='modify' visible='true' lat='-35.19395100272' lon='150.52121506179' />
+  <node id='-10911' action='modify' visible='true' lat='-35.1939751138' lon='150.52137867654' />
+  <node id='-10912' action='modify' visible='true' lat='-35.1938983967' lon='150.52183465207' />
+  <node id='-10913' action='modify' visible='true' lat='-35.19376249767' lon='150.52203313554' />
+  <node id='-10914' action='modify' visible='true' lat='-35.1937164673' lon='150.52211628402' />
+  <node id='-10915' action='modify' visible='true' lat='-35.19361563878' lon='150.52213774169' />
+  <node id='-10916' action='modify' visible='true' lat='-35.19330438474' lon='150.52203849995' />
+  <node id='-10917' action='modify' visible='true' lat='-35.19293394704' lon='150.52194462264' />
+  <node id='-10918' action='modify' visible='true' lat='-35.19245610182' lon='150.52204118216' />
+  <node id='-10919' action='modify' visible='true' lat='-35.19215580317' lon='150.52196608031' />
+  <node id='-10920' action='modify' visible='true' lat='-35.19199140562' lon='150.52207068646' />
+  <node id='-10921' action='modify' visible='true' lat='-35.19189715088' lon='150.52201972449' />
+  <node id='-10922' action='modify' visible='true' lat='-35.19174371269' lon='150.52193121159' />
+  <node id='-10923' action='modify' visible='true' lat='-35.19166260953' lon='150.52173004592' />
+  <node id='-10925' action='modify' visible='true' lat='-35.191447' lon='150.5213652' />
+  <node id='-10926' action='modify' visible='true' lat='-35.1917888' lon='150.5213254' />
+  <node id='-10927' action='modify' visible='true' lat='-35.1919933' lon='150.5212867' />
+  <node id='-10928' action='modify' visible='true' lat='-35.1920542' lon='150.5212122' />
+  <node id='-10929' action='modify' visible='true' lat='-35.192283' lon='150.5209203' />
+  <node id='-10930' action='modify' visible='true' lat='-35.1924535' lon='150.5204854' />
+  <way id='-10890' action='modify' visible='true'>
+    <nd ref='-10925' />
+    <nd ref='-10923' />
+    <nd ref='-10922' />
+    <nd ref='-10921' />
+    <nd ref='-10920' />
+    <nd ref='-10919' />
+    <nd ref='-10918' />
+    <nd ref='-10917' />
+    <nd ref='-10916' />
+    <nd ref='-10915' />
+    <nd ref='-10914' />
+    <nd ref='-10913' />
+    <nd ref='-10912' />
+    <nd ref='-10911' />
+    <nd ref='-10910' />
+    <nd ref='-10909' />
+    <nd ref='-10908' />
+    <nd ref='-10907' />
+    <nd ref='-10906' />
+    <nd ref='-10905' />
+    <nd ref='-10904' />
+    <nd ref='-10903' />
+    <nd ref='-10902' />
+    <nd ref='-10901' />
+    <nd ref='-10900' />
+    <nd ref='-10899' />
+    <nd ref='-10898' />
+    <nd ref='-10897' />
+    <nd ref='-10896' />
+    <nd ref='-10895' />
+    <nd ref='-10894' />
+    <nd ref='-10893' />
+    <nd ref='-10892' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='return' />
+  </way>
+  <way id='-10891' action='modify' visible='true'>
+    <nd ref='-10925' />
+    <nd ref='-10926' />
+    <nd ref='-10927' />
+    <nd ref='-10928' />
+    <nd ref='-10929' />
+    <nd ref='-10930' />
+    <tag k='name' v='Berrara Creek Waterholes from Blackbutt Road' />
+    <tag k='park' v='Conjola National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
