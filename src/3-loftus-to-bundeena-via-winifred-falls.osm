@@ -2111,9 +2111,7 @@
   <node id='-5312' action='modify' visible='true' lat='-34.0623901' lon='151.062017' />
   <node id='-5313' action='modify' visible='true' lat='-34.0624568' lon='151.0621806' />
   <node id='-5314' action='modify' visible='true' lat='-34.0625362' lon='151.0622041' />
-  <node id='-5315' action='modify' visible='true' lat='-34.0626241' lon='151.0622019'>
-    <tag k='created_by' v='Potlatch 0.10b' />
-  </node>
+  <node id='-5315' action='modify' visible='true' lat='-34.0626241' lon='151.0622019' />
   <way id='-4191' action='modify' visible='true'>
     <nd ref='-89' />
     <nd ref='-91' />

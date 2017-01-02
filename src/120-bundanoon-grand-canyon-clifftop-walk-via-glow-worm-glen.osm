@@ -311,12 +311,8 @@
   <node id='-11640' action='modify' visible='true' lat='-34.66966341328' lon='150.32265273674' />
   <node id='-13946' action='modify' visible='true' lat='-34.6642303' lon='150.3181248' />
   <node id='-13947' action='modify' visible='true' lat='-34.6643701' lon='150.3187108' />
-  <node id='-13948' action='modify' visible='true' lat='-34.6644043' lon='150.3192413'>
-    <tag k='created_by' v='JOSM' />
-  </node>
-  <node id='-13949' action='modify' visible='true' lat='-34.6643555' lon='150.3199249'>
-    <tag k='created_by' v='JOSM' />
-  </node>
+  <node id='-13948' action='modify' visible='true' lat='-34.6644043' lon='150.3192413' />
+  <node id='-13949' action='modify' visible='true' lat='-34.6643555' lon='150.3199249' />
   <node id='-13950' action='modify' visible='true' lat='-34.6643022' lon='150.3203137' />
   <node id='-13951' action='modify' visible='true' lat='-34.6640426' lon='150.3203643' />
   <node id='-13952' action='modify' visible='true' lat='-34.6634134' lon='150.3198718' />
