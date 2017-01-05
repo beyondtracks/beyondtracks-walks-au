@@ -1,0 +1,102 @@
+/* 
+ * JOSM MapCSS Style for BeyondTracks .osm files
+ * https://josm.openstreetmap.de/wiki/Help/Styles/MapCSSImplementation
+ *
+ * This file is licensed CC0 by Andrew Harvey <andrew.harvey4@gmail.com>
+ *
+ * To the extent possible under law, the person who associated CC0
+ * with this work has waived all copyright and related or neighboring
+ * rights to this work.
+ * http://creativecommons.org/publicdomain/zero/1.0/
+ *
+ */
+
+/* way forms the main route, and contains the primary meta tags for the whole walk */
+way[role=primary]
+{
+    width: 6;
+    color: green;
+
+    text: "name";
+    text-position: line;
+    text-offset: 9;
+    font-size: 12;
+}
+
+/* optional sidetrack excursion */
+way[role=sidetrack]
+{
+    width: 4;
+    color: orange;
+
+    text: "name";
+    text-position: line;
+    text-offset: 9;
+    font-size: 12;
+}
+
+/* an alternative route which bypasses part of the main route */
+way[role=altroute]
+{
+    width: 4;
+    color: orange;
+    dashes: 5,5;
+
+    text: "name";
+    text-position: line;
+    text-offset: 9;
+    font-size: 12;
+}
+
+/* the connection from a nearby transit stop to the start of the walk */
+way[role=transit_connection]
+{
+    width: 4;
+    color: blue;
+}
+
+/* swimming spot */
+node[activity=swimming]
+{
+    icon-image: "sport/pool.png";
+}
+
+/* generic warning */
+node[role=warn]
+{
+    icon-image: "misc/no_icon.png";
+    icon-width: 24;
+    icon-height: 24;
+}
+
+/* a hazard warning */
+node[role=warn][warn=hazard]
+{
+    icon-image: "misc/danger.png";
+    icon-width: 24;
+    icon-height: 24;
+}
+
+/* an information warning */
+node[role=warn][warn=information]
+{
+    icon-image: "misc/information.png";
+    icon-width: 24;
+    icon-height: 24;
+}
+
+/* a navigation warning */
+node[role=warn][warn=navigation]
+{
+    icon-image: "misc/information/guidepost.png";
+    icon-width: 24;
+    icon-height: 24;
+}
+
+/* a river crossing warning */
+node[role=warn][warn=rivercrossing]
+{
+    icon-image: "vehicle/ford.png"; 
+    icon-width: 24;
+    icon-height: 24;
+}
