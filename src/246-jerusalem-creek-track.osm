@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-8762' action='modify' visible='true' lat='-32.2349006' lon='151.7262649' />
+  <node id='-8763' action='modify' visible='true' lat='-32.2352463' lon='151.7265209' />
+  <node id='-8764' action='modify' visible='true' lat='-32.2359129' lon='151.7263776' />
+  <node id='-8765' action='modify' visible='true' lat='-32.2369886' lon='151.7261806' />
+  <node id='-8766' action='modify' visible='true' lat='-32.2378218' lon='151.7260731' />
+  <node id='-8767' action='modify' visible='true' lat='-32.2387157' lon='151.7258402' />
+  <node id='-8768' action='modify' visible='true' lat='-32.2395035' lon='151.7254283' />
+  <node id='-8769' action='modify' visible='true' lat='-32.2401246' lon='151.7251059' />
+  <node id='-8770' action='modify' visible='true' lat='-32.2406246' lon='151.7250521' />
+  <node id='-8771' action='modify' visible='true' lat='-32.2417456' lon='151.7255178' />
+  <node id='-8772' action='modify' visible='true' lat='-32.2428515' lon='151.7263238' />
+  <node id='-8773' action='modify' visible='true' lat='-32.243412' lon='151.7268433' />
+  <node id='-8774' action='modify' visible='true' lat='-32.2441543' lon='151.7273806' />
+  <node id='-8775' action='modify' visible='true' lat='-32.2446845' lon='151.7275776' />
+  <node id='-8776' action='modify' visible='true' lat='-32.2451087' lon='151.7275418' />
+  <node id='-8777' action='modify' visible='true' lat='-32.2459419' lon='151.7279896' />
+  <node id='-8778' action='modify' visible='true' lat='-32.2469839' lon='151.7288878' />
+  <way id='-8761' action='modify' visible='true'>
+    <nd ref='-8762' />
+    <nd ref='-8763' />
+    <nd ref='-8764' />
+    <nd ref='-8765' />
+    <nd ref='-8766' />
+    <nd ref='-8767' />
+    <nd ref='-8768' />
+    <nd ref='-8769' />
+    <nd ref='-8770' />
+    <nd ref='-8771' />
+    <nd ref='-8772' />
+    <nd ref='-8773' />
+    <nd ref='-8774' />
+    <nd ref='-8775' />
+    <nd ref='-8776' />
+    <nd ref='-8777' />
+    <nd ref='-8778' />
+    <tag k='name' v='Jerusalem Creek Track' />
+    <tag k='park' v='Barrington Tops National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
