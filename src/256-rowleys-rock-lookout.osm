@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-71680' action='modify' visible='true' lat='-31.6527079' lon='152.1581152' />
+  <node id='-71681' action='modify' visible='true' lat='-31.652717' lon='152.157847' />
+  <node id='-71682' action='modify' visible='true' lat='-31.6525892' lon='152.1577933' />
+  <node id='-71683' action='modify' visible='true' lat='-31.6524065' lon='152.157965' />
+  <node id='-71684' action='modify' visible='true' lat='-31.6522786' lon='152.1584371' />
+  <node id='-71685' action='modify' visible='true' lat='-31.6520777' lon='152.1585015' />
+  <node id='-71686' action='modify' visible='true' lat='-31.6518951' lon='152.158244' />
+  <node id='-71687' action='modify' visible='true' lat='-31.6514384' lon='152.1578363' />
+  <node id='-71688' action='modify' visible='true' lat='-31.6513653' lon='152.15745' />
+  <node id='-71689' action='modify' visible='true' lat='-31.6511918' lon='152.1566668' />
+  <node id='-71690' action='modify' visible='true' lat='-31.6509818' lon='152.1564415' />
+  <node id='-71691' action='modify' visible='true' lat='-31.6506895' lon='152.1562806' />
+  <node id='-71692' action='modify' visible='true' lat='-31.6504794' lon='152.1559587' />
+  <node id='-71693' action='modify' visible='true' lat='-31.6481413' lon='152.1543708' />
+  <node id='-71694' action='modify' visible='true' lat='-31.6486437' lon='152.1546176' />
+  <node id='-71695' action='modify' visible='true' lat='-31.6493287' lon='152.1545318' />
+  <node id='-71696' action='modify' visible='true' lat='-31.6496849' lon='152.1546391' />
+  <node id='-71697' action='modify' visible='true' lat='-31.6502602' lon='152.1550039' />
+  <node id='-71698' action='modify' visible='true' lat='-31.6504977' lon='152.1554652' />
+  <node id='-71744' action='modify' visible='true' lat='-31.65270925449' lon='152.15835558563' />
+  <node id='-71746' action='modify' visible='true' lat='-31.65277889254' lon='152.15846823841' />
+  <node id='-71748' action='modify' visible='true' lat='-31.65295812467' lon='152.15860234886' />
+  <node id='-71750' action='modify' visible='true' lat='-31.65302547933' lon='152.1587337771' />
+  <way id='-71679' action='modify' visible='true'>
+    <nd ref='-71693' />
+    <nd ref='-71694' />
+    <nd ref='-71695' />
+    <nd ref='-71696' />
+    <nd ref='-71697' />
+    <nd ref='-71698' />
+    <nd ref='-71692' />
+    <nd ref='-71691' />
+    <nd ref='-71690' />
+    <nd ref='-71689' />
+    <nd ref='-71688' />
+    <nd ref='-71687' />
+    <nd ref='-71686' />
+    <nd ref='-71685' />
+    <nd ref='-71684' />
+    <nd ref='-71683' />
+    <nd ref='-71682' />
+    <nd ref='-71681' />
+    <nd ref='-71680' />
+    <nd ref='-71744' />
+    <nd ref='-71746' />
+    <nd ref='-71748' />
+    <nd ref='-71750' />
+    <tag k='name' v='Rowleys Rock Lookout' />
+    <tag k='park' v='Tapin Tops National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

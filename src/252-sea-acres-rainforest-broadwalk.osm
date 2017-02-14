@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-63175' action='modify' visible='true' lat='-31.4617622' lon='152.9301042' />
+  <node id='-63176' action='modify' visible='true' lat='-31.4621178' lon='152.9301693' />
+  <node id='-63177' action='modify' visible='true' lat='-31.4623289' lon='152.9301042' />
+  <node id='-63178' action='modify' visible='true' lat='-31.46254' lon='152.9301172' />
+  <node id='-63179' action='modify' visible='true' lat='-31.4627289' lon='152.9300781' />
+  <node id='-63180' action='modify' visible='true' lat='-31.4629623' lon='152.9298697' />
+  <node id='-63181' action='modify' visible='true' lat='-31.4632734' lon='152.9299609' />
+  <node id='-63182' action='modify' visible='true' lat='-31.4635512' lon='152.9301693' />
+  <node id='-63183' action='modify' visible='true' lat='-31.4638956' lon='152.9303777' />
+  <node id='-63184' action='modify' visible='true' lat='-31.4639845' lon='152.930508' />
+  <node id='-63185' action='modify' visible='true' lat='-31.4641512' lon='152.9305601' />
+  <node id='-63186' action='modify' visible='true' lat='-31.464229' lon='152.9307164' />
+  <node id='-63187' action='modify' visible='true' lat='-31.4641401' lon='152.9309639' />
+  <node id='-63188' action='modify' visible='true' lat='-31.4638956' lon='152.9313547' />
+  <node id='-63189' action='modify' visible='true' lat='-31.463629' lon='152.9315892' />
+  <node id='-63190' action='modify' visible='true' lat='-31.4633401' lon='152.9315762' />
+  <node id='-63191' action='modify' visible='true' lat='-31.4631178' lon='152.9316674' />
+  <node id='-63192' action='modify' visible='true' lat='-31.4629401' lon='152.9320973' />
+  <node id='-63193' action='modify' visible='true' lat='-31.46274' lon='152.9322796' />
+  <node id='-63194' action='modify' visible='true' lat='-31.4625178' lon='152.9323708' />
+  <node id='-63195' action='modify' visible='true' lat='-31.4620733' lon='152.9323057' />
+  <node id='-63196' action='modify' visible='true' lat='-31.4615177' lon='152.9322406' />
+  <node id='-63197' action='modify' visible='true' lat='-31.46124' lon='152.9319149' />
+  <node id='-63198' action='modify' visible='true' lat='-31.4609177' lon='152.9316413' />
+  <node id='-63199' action='modify' visible='true' lat='-31.4605621' lon='152.9314199' />
+  <node id='-63200' action='modify' visible='true' lat='-31.4602954' lon='152.9312635' />
+  <node id='-63201' action='modify' visible='true' lat='-31.4600732' lon='152.93099' />
+  <node id='-63202' action='modify' visible='true' lat='-31.4600732' lon='152.9306643' />
+  <node id='-63203' action='modify' visible='true' lat='-31.4602177' lon='152.9305861' />
+  <node id='-63204' action='modify' visible='true' lat='-31.460551' lon='152.9305992' />
+  <node id='-63205' action='modify' visible='true' lat='-31.4609288' lon='152.9306122' />
+  <node id='-63206' action='modify' visible='true' lat='-31.4613066' lon='152.930521' />
+  <node id='-63207' action='modify' visible='true' lat='-31.4617066' lon='152.930508' />
+  <node id='-63208' action='modify' visible='true' lat='-31.4617511' lon='152.9302996' />
+  <node id='-63209' action='modify' visible='true' lat='-31.4617204' lon='152.9301886' />
+  <node id='-63210' action='modify' visible='true' lat='-31.4617166' lon='152.9301748' />
+  <way id='-63174' action='modify' visible='true'>
+    <nd ref='-63175' />
+    <nd ref='-63176' />
+    <nd ref='-63177' />
+    <nd ref='-63178' />
+    <nd ref='-63179' />
+    <nd ref='-63180' />
+    <nd ref='-63181' />
+    <nd ref='-63182' />
+    <nd ref='-63183' />
+    <nd ref='-63184' />
+    <nd ref='-63185' />
+    <nd ref='-63186' />
+    <nd ref='-63187' />
+    <nd ref='-63188' />
+    <nd ref='-63189' />
+    <nd ref='-63190' />
+    <nd ref='-63191' />
+    <nd ref='-63192' />
+    <nd ref='-63193' />
+    <nd ref='-63194' />
+    <nd ref='-63195' />
+    <nd ref='-63196' />
+    <nd ref='-63197' />
+    <nd ref='-63198' />
+    <nd ref='-63199' />
+    <nd ref='-63200' />
+    <nd ref='-63201' />
+    <nd ref='-63202' />
+    <nd ref='-63203' />
+    <nd ref='-63204' />
+    <nd ref='-63205' />
+    <nd ref='-63206' />
+    <nd ref='-63207' />
+    <nd ref='-63208' />
+    <nd ref='-63209' />
+    <nd ref='-63210' />
+    <tag k='name' v='Sea Acres Rainforest Broadwalk' />
+    <tag k='park' v='Sea Acres National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='loop' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
