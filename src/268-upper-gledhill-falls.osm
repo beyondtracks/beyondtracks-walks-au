@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-31267' action='modify' visible='true' lat='-33.6628937' lon='151.2509038' />
+  <node id='-31268' action='modify' visible='true' lat='-33.6628535' lon='151.2509628' />
+  <node id='-31269' action='modify' visible='true' lat='-33.6628295' lon='151.2510037' />
+  <node id='-31270' action='modify' visible='true' lat='-33.662815' lon='151.251062' />
+  <node id='-31271' action='modify' visible='true' lat='-33.6627954' lon='151.2511633' />
+  <node id='-31272' action='modify' visible='true' lat='-33.6627753' lon='151.2512303' />
+  <node id='-31273' action='modify' visible='true' lat='-33.6627625' lon='151.2512665' />
+  <node id='-31274' action='modify' visible='true' lat='-33.6627206' lon='151.2512692' />
+  <node id='-31275' action='modify' visible='true' lat='-33.6627112' lon='151.2512149' />
+  <node id='-31276' action='modify' visible='true' lat='-33.6627028' lon='151.2511532' />
+  <node id='-31277' action='modify' visible='true' lat='-33.6626849' lon='151.2510895' />
+  <node id='-31278' action='modify' visible='true' lat='-33.66269' lon='151.2510406' />
+  <node id='-31279' action='modify' visible='true' lat='-33.6629922' lon='151.2508785' />
+  <node id='-31280' action='modify' visible='true' lat='-33.6628674' lon='151.2508106' />
+  <node id='-31281' action='modify' visible='true' lat='-33.6628328' lon='151.2507972' />
+  <node id='-31282' action='modify' visible='true' lat='-33.6627882' lon='151.2507536' />
+  <node id='-31283' action='modify' visible='true' lat='-33.6627737' lon='151.2507133' />
+  <way id='-31265' action='modify' visible='true'>
+    <nd ref='-31279' />
+    <nd ref='-31267' />
+    <nd ref='-31268' />
+    <nd ref='-31269' />
+    <nd ref='-31270' />
+    <nd ref='-31271' />
+    <nd ref='-31272' />
+    <nd ref='-31273' />
+    <nd ref='-31274' />
+    <nd ref='-31275' />
+    <nd ref='-31276' />
+    <nd ref='-31277' />
+    <nd ref='-31278' />
+    <tag k='name' v='Upper Gledhill Falls' />
+    <tag k='park' v='Ku-ring-gai Chase National Park' />
+    <tag k='photo' v='33244821751' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+  <way id='-31266' action='modify' visible='true'>
+    <nd ref='-31267' />
+    <nd ref='-31280' />
+    <nd ref='-31281' />
+    <nd ref='-31282' />
+    <nd ref='-31283' />
+    <tag k='name' v='Top of Falls' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='return' />
+  </way>
+</osm>
