@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-84897' action='modify' visible='true' lat='-36.9015224' lon='149.9370803' />
+  <node id='-84898' action='modify' visible='true' lat='-36.9015531' lon='149.9370961' />
+  <node id='-84899' action='modify' visible='true' lat='-36.9014916' lon='149.9370091' />
+  <node id='-84900' action='modify' visible='true' lat='-36.9015138' lon='149.9370391' />
+  <node id='-84901' action='modify' visible='true' lat='-36.8973304' lon='149.9292231' />
+  <node id='-84902' action='modify' visible='true' lat='-36.8976271' lon='149.9294847' />
+  <node id='-84903' action='modify' visible='true' lat='-36.8978505' lon='149.9296156' />
+  <node id='-84904' action='modify' visible='true' lat='-36.8979693' lon='149.9298252' />
+  <node id='-84905' action='modify' visible='true' lat='-36.8982486' lon='149.9301308' />
+  <node id='-84906' action='modify' visible='true' lat='-36.8983254' lon='149.9304015' />
+  <node id='-84907' action='modify' visible='true' lat='-36.8984755' lon='149.9306945' />
+  <node id='-84908' action='modify' visible='true' lat='-36.8989678' lon='149.9313009' />
+  <node id='-84909' action='modify' visible='true' lat='-36.8995404' lon='149.9320344' />
+  <node id='-84910' action='modify' visible='true' lat='-36.899974' lon='149.9324855' />
+  <node id='-84911' action='modify' visible='true' lat='-36.9002527' lon='149.9328378' />
+  <node id='-84912' action='modify' visible='true' lat='-36.9004491' lon='149.9329644' />
+  <node id='-84913' action='modify' visible='true' lat='-36.9004904' lon='149.9332902' />
+  <node id='-84914' action='modify' visible='true' lat='-36.9005267' lon='149.9334731' />
+  <node id='-84915' action='modify' visible='true' lat='-36.9005362' lon='149.9337558' />
+  <node id='-84916' action='modify' visible='true' lat='-36.900505' lon='149.9339519' />
+  <node id='-84917' action='modify' visible='true' lat='-36.9005221' lon='149.9341484' />
+  <node id='-84918' action='modify' visible='true' lat='-36.9005247' lon='149.9343564' />
+  <node id='-84919' action='modify' visible='true' lat='-36.9004951' lon='149.9346426' />
+  <node id='-84920' action='modify' visible='true' lat='-36.9005038' lon='149.9349009' />
+  <node id='-84921' action='modify' visible='true' lat='-36.9004878' lon='149.9350755' />
+  <node id='-84922' action='modify' visible='true' lat='-36.9004926' lon='149.9352816' />
+  <node id='-84923' action='modify' visible='true' lat='-36.9005155' lon='149.9354051' />
+  <node id='-84924' action='modify' visible='true' lat='-36.9007618' lon='149.9357956' />
+  <node id='-84925' action='modify' visible='true' lat='-36.9009386' lon='149.9361368' />
+  <node id='-84926' action='modify' visible='true' lat='-36.9010355' lon='149.9361671' />
+  <node id='-84927' action='modify' visible='true' lat='-36.9011289' lon='149.9362334' />
+  <node id='-84928' action='modify' visible='true' lat='-36.9011268' lon='149.9364509' />
+  <node id='-84929' action='modify' visible='true' lat='-36.9012222' lon='149.9365597' />
+  <node id='-84930' action='modify' visible='true' lat='-36.901271' lon='149.9366702' />
+  <node id='-84931' action='modify' visible='true' lat='-36.9014346' lon='149.9368177' />
+  <node id='-84932' action='modify' visible='true' lat='-36.9015236' lon='149.9369626' />
+  <way id='-84894' action='modify' visible='true'>
+    <nd ref='-84901' />
+    <nd ref='-84902' />
+    <nd ref='-84903' />
+    <nd ref='-84904' />
+    <nd ref='-84905' />
+    <nd ref='-84906' />
+    <nd ref='-84907' />
+    <nd ref='-84908' />
+    <nd ref='-84909' />
+    <nd ref='-84910' />
+    <nd ref='-84911' />
+    <nd ref='-84912' />
+    <nd ref='-84913' />
+    <nd ref='-84914' />
+    <nd ref='-84915' />
+    <nd ref='-84916' />
+    <nd ref='-84917' />
+    <nd ref='-84918' />
+    <nd ref='-84919' />
+    <nd ref='-84920' />
+    <nd ref='-84921' />
+    <nd ref='-84922' />
+    <nd ref='-84923' />
+    <nd ref='-84924' />
+    <nd ref='-84925' />
+    <nd ref='-84926' />
+    <nd ref='-84927' />
+    <nd ref='-84928' />
+    <nd ref='-84929' />
+    <nd ref='-84930' />
+    <nd ref='-84931' />
+    <nd ref='-84932' />
+    <nd ref='-84899' />
+    <nd ref='-84900' />
+    <nd ref='-84897' />
+    <nd ref='-84898' />
+    <tag k='name' v='Long Point Track' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

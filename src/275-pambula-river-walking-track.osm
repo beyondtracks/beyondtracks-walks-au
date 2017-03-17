@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-90032' action='modify' visible='true' lat='-36.9486925' lon='149.9113726' />
+  <node id='-90033' action='modify' visible='true' lat='-36.9487196' lon='149.9112967' />
+  <node id='-90034' action='modify' visible='true' lat='-36.9501807' lon='149.9069324' />
+  <node id='-90035' action='modify' visible='true' lat='-36.9501801' lon='149.9068994' />
+  <node id='-90036' action='modify' visible='true' lat='-36.9502315' lon='149.9069052' />
+  <node id='-90037' action='modify' visible='true' lat='-36.9482805' lon='149.9126661' />
+  <node id='-90038' action='modify' visible='true' lat='-36.9483062' lon='149.9125638' />
+  <node id='-90039' action='modify' visible='true' lat='-36.9483648' lon='149.9125283' />
+  <node id='-90040' action='modify' visible='true' lat='-36.9484888' lon='149.9123988' />
+  <node id='-90041' action='modify' visible='true' lat='-36.9485191' lon='149.9119617' />
+  <node id='-90042' action='modify' visible='true' lat='-36.9486721' lon='149.9115621' />
+  <node id='-90043' action='modify' visible='true' lat='-36.9481508' lon='149.9130039' />
+  <node id='-90044' action='modify' visible='true' lat='-36.9481308' lon='149.912968' />
+  <node id='-90045' action='modify' visible='true' lat='-36.948715' lon='149.9110171' />
+  <node id='-90046' action='modify' visible='true' lat='-36.9487888' lon='149.910664' />
+  <node id='-90047' action='modify' visible='true' lat='-36.949183' lon='149.9097171' />
+  <node id='-90048' action='modify' visible='true' lat='-36.9495126' lon='149.9094003' />
+  <node id='-90049' action='modify' visible='true' lat='-36.9495469' lon='149.9092749' />
+  <node id='-90050' action='modify' visible='true' lat='-36.9493489' lon='149.9087686' />
+  <node id='-90051' action='modify' visible='true' lat='-36.9494133' lon='149.908533' />
+  <node id='-90052' action='modify' visible='true' lat='-36.9499731' lon='149.9079676' />
+  <node id='-90053' action='modify' visible='true' lat='-36.9502104' lon='149.9075684' />
+  <node id='-90088' action='modify' visible='true' lat='-36.94813944343' lon='149.91318937499' />
+  <node id='-90090' action='modify' visible='true' lat='-36.94798724998' lon='149.91365607936' />
+  <node id='-90092' action='modify' visible='true' lat='-36.94785702788' lon='149.91378683705' />
+  <node id='-90094' action='modify' visible='true' lat='-36.94770215439' lon='149.91381768245' />
+  <node id='-90096' action='modify' visible='true' lat='-36.94750923196' lon='149.91384182233' />
+  <node id='-90098' action='modify' visible='true' lat='-36.9474234885' lon='149.91373587507' />
+  <way id='-90031' action='modify' visible='true'>
+    <nd ref='-90098' />
+    <nd ref='-90096' />
+    <nd ref='-90094' />
+    <nd ref='-90092' />
+    <nd ref='-90090' />
+    <nd ref='-90088' />
+    <nd ref='-90043' />
+    <nd ref='-90044' />
+    <nd ref='-90037' />
+    <nd ref='-90038' />
+    <nd ref='-90039' />
+    <nd ref='-90040' />
+    <nd ref='-90041' />
+    <nd ref='-90042' />
+    <nd ref='-90032' />
+    <nd ref='-90033' />
+    <nd ref='-90045' />
+    <nd ref='-90046' />
+    <nd ref='-90047' />
+    <nd ref='-90048' />
+    <nd ref='-90049' />
+    <nd ref='-90050' />
+    <nd ref='-90051' />
+    <nd ref='-90052' />
+    <nd ref='-90053' />
+    <nd ref='-90034' />
+    <nd ref='-90035' />
+    <nd ref='-90036' />
+    <tag k='name' v='Pambula River Walking Track' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
