@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-30744' action='modify' visible='true' lat='-33.66208790598' lon='151.25672423477' />
+  <node id='-30746' action='modify' visible='true' lat='-33.66204214055' lon='151.25676580901' />
+  <node id='-30748' action='modify' visible='true' lat='-33.66202372275' lon='151.25681140656' />
+  <node id='-30750' action='modify' visible='true' lat='-33.66203600129' lon='151.25684225196' />
+  <node id='-30752' action='modify' visible='true' lat='-33.66206334892' lon='151.25687980289' />
+  <node id='-30754' action='modify' visible='true' lat='-33.66263252269' lon='151.25608292808' />
+  <node id='-30756' action='modify' visible='true' lat='-33.66269290026' lon='151.25615694756' />
+  <node id='-30758' action='modify' visible='true' lat='-33.66270294626' lon='151.25617639357' />
+  <node id='-30760' action='modify' visible='true' lat='-33.66269066782' lon='151.25621461505' />
+  <node id='-30762' action='modify' visible='true' lat='-33.66264880949' lon='151.25625149543' />
+  <node id='-30764' action='modify' visible='true' lat='-33.66260583493' lon='151.25627898807' />
+  <node id='-30766' action='modify' visible='true' lat='-33.66256620901' lon='151.25632659728' />
+  <node id='-30768' action='modify' visible='true' lat='-33.66254444265' lon='151.25635945434' />
+  <node id='-30770' action='modify' visible='true' lat='-33.66250872348' lon='151.25641712183' />
+  <node id='-30772' action='modify' visible='true' lat='-33.66248974767' lon='151.25645936663' />
+  <node id='-30774' action='modify' visible='true' lat='-33.66248472466' lon='151.25650831694' />
+  <node id='-30776' action='modify' visible='true' lat='-33.66248584089' lon='151.2565398329' />
+  <node id='-30778' action='modify' visible='true' lat='-33.66343876134' lon='151.25423876558' />
+  <node id='-30780' action='modify' visible='true' lat='-33.66356030821' lon='151.25433981127' />
+  <node id='-30782' action='modify' visible='true' lat='-33.66372595724' lon='151.25443698103' />
+  <node id='-30784' action='modify' visible='true' lat='-33.66379572023' lon='151.25457377369' />
+  <node id='-30786' action='modify' visible='true' lat='-33.66383422938' lon='151.25462071235' />
+  <node id='-30788' action='modify' visible='true' lat='-33.66382920644' lon='151.25467636818' />
+  <node id='-30790' action='modify' visible='true' lat='-33.66380744041' lon='151.25472129518' />
+  <node id='-30792' action='modify' visible='true' lat='-33.66378790678' lon='151.25473738844' />
+  <node id='-30794' action='modify' visible='true' lat='-33.66369637771' lon='151.25491307313' />
+  <node id='-30796' action='modify' visible='true' lat='-33.66353229488' lon='151.25501231486' />
+  <node id='-30798' action='modify' visible='true' lat='-33.66326775252' lon='151.25522152716' />
+  <node id='-30800' action='modify' visible='true' lat='-33.66322198772' lon='151.25533283884' />
+  <node id='-30802' action='modify' visible='true' lat='-33.66319519856' lon='151.25539587075' />
+  <node id='-30804' action='modify' visible='true' lat='-33.6631338067' lon='151.25547231371' />
+  <node id='-30806' action='modify' visible='true' lat='-33.66313715535' lon='151.25561312968' />
+  <node id='-30808' action='modify' visible='true' lat='-33.66309027427' lon='151.25577003891' />
+  <node id='-30810' action='modify' visible='true' lat='-33.66298311741' lon='151.2559470647' />
+  <node id='-30812' action='modify' visible='true' lat='-33.66288265774' lon='151.25597388679' />
+  <node id='-30814' action='modify' visible='true' lat='-33.6627208058' lon='151.25603289539' />
+  <node id='-30816' action='modify' visible='true' lat='-33.66260248626' lon='151.25609995062' />
+  <node id='-30818' action='modify' visible='true' lat='-33.66250983971' lon='151.25618175799' />
+  <node id='-30820' action='modify' visible='true' lat='-33.66246295829' lon='151.25628368193' />
+  <node id='-30822' action='modify' visible='true' lat='-33.66240156591' lon='151.25643120343' />
+  <node id='-30824' action='modify' visible='true' lat='-33.66236026555' lon='151.25657470161' />
+  <node id='-30826' action='modify' visible='true' lat='-33.6622988731' lon='151.25663505132' />
+  <node id='-30828' action='modify' visible='true' lat='-33.66221180737' lon='151.25666723782' />
+  <node id='-30830' action='modify' visible='true' lat='-33.66335358222' lon='151.25421715672' />
+  <node id='-30832' action='modify' visible='true' lat='-33.66210453066' lon='151.25691210623' />
+  <way id='-30834' action='modify' visible='true'>
+    <nd ref='-30754' />
+    <nd ref='-30756' />
+    <nd ref='-30758' />
+    <nd ref='-30760' />
+    <nd ref='-30762' />
+    <nd ref='-30764' />
+    <nd ref='-30766' />
+    <nd ref='-30768' />
+    <nd ref='-30770' />
+    <nd ref='-30772' />
+    <nd ref='-30774' />
+    <nd ref='-30776' />
+    <tag k='role' v='sidetrack' />
+    <tag k='style' v='return' />
+  </way>
+  <way id='-30836' action='modify' visible='true'>
+    <nd ref='-30830' />
+    <nd ref='-30778' />
+    <nd ref='-30780' />
+    <nd ref='-30782' />
+    <nd ref='-30784' />
+    <nd ref='-30786' />
+    <nd ref='-30788' />
+    <nd ref='-30790' />
+    <nd ref='-30792' />
+    <nd ref='-30794' />
+    <nd ref='-30796' />
+    <nd ref='-30798' />
+    <nd ref='-30800' />
+    <nd ref='-30802' />
+    <nd ref='-30804' />
+    <nd ref='-30806' />
+    <nd ref='-30808' />
+    <nd ref='-30810' />
+    <nd ref='-30812' />
+    <nd ref='-30814' />
+    <nd ref='-30754' />
+    <nd ref='-30816' />
+    <nd ref='-30818' />
+    <nd ref='-30820' />
+    <nd ref='-30822' />
+    <nd ref='-30824' />
+    <nd ref='-30826' />
+    <nd ref='-30828' />
+    <nd ref='-30744' />
+    <nd ref='-30746' />
+    <nd ref='-30748' />
+    <nd ref='-30750' />
+    <nd ref='-30752' />
+    <nd ref='-30832' />
+    <tag k='name' v='Lower Gledhill Falls' />
+    <tag k='park' v='Ku-ring-gai Chase National Park' />
+    <tag k='photo' v='32855901623' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
