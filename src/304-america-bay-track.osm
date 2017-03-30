@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-50407' action='modify' visible='true' lat='-33.6008912' lon='151.2723644' />
+  <node id='-50408' action='modify' visible='true' lat='-33.6007695' lon='151.271991'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50409' action='modify' visible='true' lat='-33.6006585' lon='151.27174'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50410' action='modify' visible='true' lat='-33.6006125' lon='151.271464'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50411' action='modify' visible='true' lat='-33.6004575' lon='151.27108'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50412' action='modify' visible='true' lat='-33.6001595' lon='151.270597'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50413' action='modify' visible='true' lat='-33.5996235' lon='151.269923'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50414' action='modify' visible='true' lat='-33.5993685' lon='151.269461'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50415' action='modify' visible='true' lat='-33.5990915' lon='151.269072'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50416' action='modify' visible='true' lat='-33.5989735' lon='151.268748'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50417' action='modify' visible='true' lat='-33.5986835' lon='151.267838'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50418' action='modify' visible='true' lat='-33.5986615' lon='151.267696'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50419' action='modify' visible='true' lat='-33.5986735' lon='151.267536'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50420' action='modify' visible='true' lat='-33.5986665' lon='151.267411'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50421' action='modify' visible='true' lat='-33.5985655' lon='151.267346'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50422' action='modify' visible='true' lat='-33.5984245' lon='151.267212'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50423' action='modify' visible='true' lat='-33.5982595' lon='151.26682'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50424' action='modify' visible='true' lat='-33.5980335' lon='151.26641'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50425' action='modify' visible='true' lat='-33.5978545' lon='151.265836'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50426' action='modify' visible='true' lat='-33.5976935' lon='151.26515'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50427' action='modify' visible='true' lat='-33.5975975' lon='151.264546'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50428' action='modify' visible='true' lat='-33.5975695' lon='151.264189'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50429' action='modify' visible='true' lat='-33.5975695' lon='151.26396'>
+    <tag k='created_by' v='JOSM' />
+  </node>
+  <node id='-50430' action='modify' visible='true' lat='-33.5976315' lon='151.263594' />
+  <way id='-50406' action='modify' visible='true'>
+    <nd ref='-50407' />
+    <nd ref='-50408' />
+    <nd ref='-50409' />
+    <nd ref='-50410' />
+    <nd ref='-50411' />
+    <nd ref='-50412' />
+    <nd ref='-50413' />
+    <nd ref='-50414' />
+    <nd ref='-50415' />
+    <nd ref='-50416' />
+    <nd ref='-50417' />
+    <nd ref='-50418' />
+    <nd ref='-50419' />
+    <nd ref='-50420' />
+    <nd ref='-50421' />
+    <nd ref='-50422' />
+    <nd ref='-50423' />
+    <nd ref='-50424' />
+    <nd ref='-50425' />
+    <nd ref='-50426' />
+    <nd ref='-50427' />
+    <nd ref='-50428' />
+    <nd ref='-50429' />
+    <nd ref='-50430' />
+    <tag k='name' v='America Bay Track' />
+    <tag k='park' v='Ku-ring-gai Chase National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
