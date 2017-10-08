@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-51764' action='modify' lat='-33.832911' lon='150.566869' />
+  <node id='-51765' action='modify' lat='-33.83283' lon='150.567203' />
+  <node id='-51766' action='modify' lat='-33.832906' lon='150.567521' />
+  <node id='-51767' action='modify' lat='-33.832774' lon='150.568063' />
+  <node id='-51768' action='modify' lat='-33.832503' lon='150.568474' />
+  <node id='-51769' action='modify' lat='-33.832151' lon='150.568848' />
+  <node id='-51770' action='modify' lat='-33.832018' lon='150.569058' />
+  <node id='-51771' action='modify' lat='-33.831282' lon='150.569734' />
+  <node id='-51772' action='modify' lat='-33.830479' lon='150.570238' />
+  <node id='-51773' action='modify' lat='-33.829762' lon='150.571267' />
+  <node id='-51774' action='modify' lat='-33.829329' lon='150.57169' />
+  <node id='-51775' action='modify' lat='-33.829087' lon='150.571731' />
+  <node id='-51776' action='modify' lat='-33.828851' lon='150.57152' />
+  <node id='-51777' action='modify' lat='-33.828701' lon='150.571471' />
+  <node id='-51778' action='modify' lat='-33.8286446' lon='150.5715135' />
+  <node id='-51779' action='modify' lat='-33.8284151' lon='150.5716891' />
+  <way id='-51763' action='modify'>
+    <nd ref='-51779' />
+    <nd ref='-51778' />
+    <nd ref='-51777' />
+    <nd ref='-51776' />
+    <nd ref='-51775' />
+    <nd ref='-51774' />
+    <nd ref='-51773' />
+    <nd ref='-51772' />
+    <nd ref='-51771' />
+    <nd ref='-51770' />
+    <nd ref='-51769' />
+    <nd ref='-51768' />
+    <nd ref='-51767' />
+    <nd ref='-51766' />
+    <nd ref='-51765' />
+    <nd ref='-51764' />
+    <tag k='name' v='Pisgah Rock' />
+    <tag k='park' v='Blue Mountains National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
