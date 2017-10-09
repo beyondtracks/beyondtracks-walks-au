@@ -590,7 +590,7 @@
     <tag k='photo' v='34555609660' />
     <tag k='role' v='primary' />
     <tag k='style' v='oneway' />
-    <tag k='transport' v='train+bus+walk;carshuffle;train+taxi+bus' />
+    <tag k='transport' v='train+bus+foot;carshuffle;train+taxi+bus' />
   </way>
   <way id='-44246' action='modify' visible='true'>
     <nd ref='-44226' />
