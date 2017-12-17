@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-304447' action='modify' lat='-41.8738441' lon='148.3073453' />
+  <node id='-304448' action='modify' lat='-41.8741287' lon='148.3072153' />
+  <node id='-304449' action='modify' lat='-41.8744842' lon='148.3074003' />
+  <node id='-304450' action='modify' lat='-41.8747439' lon='148.3074647' />
+  <node id='-304451' action='modify' lat='-41.8748198' lon='148.3075881' />
+  <node id='-304452' action='modify' lat='-41.8748557' lon='148.307985' />
+  <node id='-304453' action='modify' lat='-41.8747439' lon='148.3084035' />
+  <node id='-304454' action='modify' lat='-41.8745841' lon='148.3085805' />
+  <node id='-304455' action='modify' lat='-41.8744683' lon='148.3085698' />
+  <node id='-304456' action='modify' lat='-41.8743964' lon='148.3082425' />
+  <node id='-304457' action='modify' lat='-41.8742526' lon='148.3078885' />
+  <node id='-304458' action='modify' lat='-41.8741727' lon='148.3076632' />
+  <node id='-304459' action='modify' lat='-41.8751233' lon='148.3065957' />
+  <node id='-304460' action='modify' lat='-41.8749636' lon='148.3069122' />
+  <node id='-304461' action='modify' lat='-41.874636' lon='148.3069336' />
+  <node id='-304462' action='modify' lat='-41.8743265' lon='148.3068477' />
+  <node id='-304463' action='modify' lat='-41.873924' lon='148.3069175' />
+  <node id='-304464' action='modify' lat='-41.8738452' lon='148.307057' />
+  <node id='-304465' action='modify' lat='-41.8737912' lon='148.3072944' />
+  <node id='-304466' action='modify' lat='-41.8737911' lon='148.3075735' />
+  <node id='-304467' action='modify' lat='-41.8737832' lon='148.3078335' />
+  <node id='-304468' action='modify' lat='-41.8739009' lon='148.3076674' />
+  <node id='-304469' action='modify' lat='-41.8739889' lon='148.3075988' />
+  <node id='-304470' action='modify' lat='-41.874183' lon='148.3075567' />
+  <node id='-304471' action='modify' lat='-41.8741372' lon='148.3074386' />
+  <node id='-304482' action='modify' lat='-41.87513445466' lon='148.30660585171' />
+  <node id='-304483' action='modify' lat='-41.87385544303' lon='148.30733897145' />
+  <node id='-304485' action='modify' lat='-41.87497097836' lon='148.30692983579' />
+  <node id='-304486' action='modify' lat='-41.8746349471' lon='148.30695178656' />
+  <node id='-304487' action='modify' lat='-41.8743259852' lon='148.3068660359' />
+  <node id='-304488' action='modify' lat='-41.87393132381' lon='148.30693447656' />
+  <node id='-304489' action='modify' lat='-41.87385738583' lon='148.30706536933' />
+  <node id='-304490' action='modify' lat='-41.87380691405' lon='148.30728725829' />
+  <node id='-304509' action='modify' lat='-41.87416824584' lon='148.30766242305' />
+  <node id='-304510' action='modify' lat='-41.87413321633' lon='148.30744138637' />
+  <node id='-304512' action='modify' lat='-41.87417836392' lon='148.30755780405' />
+  <way id='-304484' action='modify'>
+    <nd ref='-304459' />
+    <nd ref='-304460' />
+    <nd ref='-304461' />
+    <nd ref='-304462' />
+    <nd ref='-304463' />
+    <nd ref='-304464' />
+    <nd ref='-304465' />
+    <nd ref='-304447' />
+    <nd ref='-304466' />
+    <nd ref='-304467' />
+    <nd ref='-304468' />
+    <nd ref='-304469' />
+    <nd ref='-304509' />
+    <nd ref='-304512' />
+    <nd ref='-304510' />
+    <nd ref='-304471' />
+    <nd ref='-304470' />
+    <nd ref='-304458' />
+    <nd ref='-304457' />
+    <nd ref='-304456' />
+    <nd ref='-304455' />
+    <nd ref='-304454' />
+    <nd ref='-304453' />
+    <nd ref='-304452' />
+    <nd ref='-304451' />
+    <nd ref='-304450' />
+    <nd ref='-304449' />
+    <nd ref='-304448' />
+    <nd ref='-304483' />
+    <nd ref='-304490' />
+    <nd ref='-304489' />
+    <nd ref='-304488' />
+    <nd ref='-304487' />
+    <nd ref='-304486' />
+    <nd ref='-304485' />
+    <nd ref='-304482' />
+    <tag k='name' v='Whalers Lookout' />
+    <tag k='park' v='Whalers Lookout Conservation Reserve' />
+    <tag k='photo' v='25179500518' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='loop' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

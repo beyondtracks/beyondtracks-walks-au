@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-315205' action='modify' lat='-41.2165563' lon='147.9384705' />
+  <node id='-315206' action='modify' lat='-41.2164988' lon='147.9382724' />
+  <node id='-315207' action='modify' lat='-41.2163761' lon='147.9381393' />
+  <node id='-315208' action='modify' lat='-41.2161708' lon='147.9380461' />
+  <node id='-315209' action='modify' lat='-41.2160081' lon='147.9380461' />
+  <node id='-315210' action='modify' lat='-41.2158904' lon='147.9380561' />
+  <node id='-315211' action='modify' lat='-41.2157803' lon='147.9381326' />
+  <node id='-315212' action='modify' lat='-41.2158804' lon='147.9382458' />
+  <node id='-315213' action='modify' lat='-41.2159856' lon='147.9382924' />
+  <node id='-315214' action='modify' lat='-41.2161132' lon='147.938502' />
+  <node id='-315215' action='modify' lat='-41.2162209' lon='147.9385553' />
+  <node id='-315216' action='modify' lat='-41.216321' lon='147.9384754' />
+  <node id='-315217' action='modify' lat='-41.2164587' lon='147.9383423' />
+  <way id='-315204' action='modify'>
+    <nd ref='-315205' />
+    <nd ref='-315206' />
+    <nd ref='-315207' />
+    <nd ref='-315208' />
+    <nd ref='-315209' />
+    <nd ref='-315210' />
+    <nd ref='-315211' />
+    <nd ref='-315212' />
+    <nd ref='-315213' />
+    <nd ref='-315214' />
+    <nd ref='-315215' />
+    <nd ref='-315216' />
+    <nd ref='-315217' />
+    <nd ref='-315205' />
+    <tag k='name' v='Weldborough Pass Rainforest Walk' />
+    <tag k='park' v='Weldborough Pass State Reserve' />
+    <tag k='photo' v='25182652278' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='loop' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
