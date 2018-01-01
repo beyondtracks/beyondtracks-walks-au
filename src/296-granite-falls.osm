@@ -1,30 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='false' generator='JOSM'>
-  <node id='-33192' action='modify' visible='true' lat='-35.1655948' lon='150.3784159' />
-  <node id='-33193' action='modify' visible='true' lat='-35.1653324' lon='150.3779931' />
-  <node id='-33194' action='modify' visible='true' lat='-35.1647682' lon='150.377841' />
-  <node id='-33195' action='modify' visible='true' lat='-35.163699' lon='150.377959' />
-  <node id='-33196' action='modify' visible='true' lat='-35.1632408' lon='150.3778017' />
-  <node id='-33197' action='modify' visible='true' lat='-35.1629433' lon='150.3774968' />
-  <node id='-33198' action='modify' visible='true' lat='-35.1619062' lon='150.3775067' />
-  <node id='-33199' action='modify' visible='true' lat='-35.1617857' lon='150.3773592' />
-  <node id='-33200' action='modify' visible='true' lat='-35.16177216261' lon='150.37729213076' />
-  <node id='-33201' action='modify' visible='true' lat='-35.16174037436' lon='150.3769614762' />
-  <node id='-33202' action='modify' visible='true' lat='-35.16163295649' lon='150.37675132646' />
-  <way id='-33190' action='modify' visible='true'>
-    <nd ref='-33192' />
-    <nd ref='-33193' />
-    <nd ref='-33194' />
-    <nd ref='-33195' />
-    <nd ref='-33196' />
-    <nd ref='-33197' />
-    <nd ref='-33198' />
-    <nd ref='-33199' />
-    <nd ref='-33200' />
-    <nd ref='-33201' />
-    <nd ref='-33202' />
+  <node id='-39170' action='modify' lat='-35.1655948' lon='150.3784159' />
+  <node id='-39172' action='modify' lat='-35.1653324' lon='150.3779931' />
+  <node id='-39174' action='modify' lat='-35.1647682' lon='150.377841' />
+  <node id='-39176' action='modify' lat='-35.163699' lon='150.377959' />
+  <node id='-39178' action='modify' lat='-35.1632408' lon='150.3778017' />
+  <node id='-39180' action='modify' lat='-35.1629433' lon='150.3774968' />
+  <node id='-39182' action='modify' lat='-35.1619062' lon='150.3775067' />
+  <node id='-39184' action='modify' lat='-35.1617857' lon='150.3773592' />
+  <node id='-39186' action='modify' lat='-35.16177216261' lon='150.37729213076' />
+  <node id='-39188' action='modify' lat='-35.16174037436' lon='150.3769614762' />
+  <node id='-39190' action='modify' lat='-35.16163295649' lon='150.37675132646' />
+  <way id='-39192' action='modify'>
+    <nd ref='-39170' />
+    <nd ref='-39172' />
+    <nd ref='-39174' />
+    <nd ref='-39176' />
+    <nd ref='-39178' />
+    <nd ref='-39180' />
+    <nd ref='-39182' />
+    <nd ref='-39184' />
+    <nd ref='-39186' />
+    <nd ref='-39188' />
+    <nd ref='-39190' />
     <tag k='name' v='Granite Falls' />
     <tag k='park' v='Morton National Park' />
+    <tag k='photo' v='39416794751' />
     <tag k='role' v='primary' />
     <tag k='style' v='return' />
     <tag k='transport' v='car' />
