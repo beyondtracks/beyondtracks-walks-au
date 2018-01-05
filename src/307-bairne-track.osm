@@ -192,10 +192,8 @@
   <node id='-51708' action='modify' visible='true' lat='-33.6122877' lon='151.2993101' />
   <node id='-51709' action='modify' visible='true' lat='-33.6130365' lon='151.2948051' />
   <node id='-51710' action='modify' visible='true' lat='-33.6128215' lon='151.294808'>
-    <tag k='created_by' v='JOSM' />
   </node>
   <node id='-51711' action='modify' visible='true' lat='-33.6126545' lon='151.294832'>
-    <tag k='created_by' v='JOSM' />
   </node>
   <node id='-51712' action='modify' visible='true' lat='-33.6123347' lon='151.2947985' />
   <node id='-51713' action='modify' visible='true' lat='-33.6121649' lon='151.2948963' />
@@ -244,7 +242,6 @@
   <node id='-51758' action='modify' visible='true' lat='-33.6130279' lon='151.2957317' />
   <node id='-51759' action='modify' visible='true' lat='-33.6130004' lon='151.2959732' />
   <node id='-51760' action='modify' visible='true' lat='-33.6129875' lon='151.296154'>
-    <tag k='created_by' v='JOSM' />
   </node>
   <node id='-51761' action='modify' visible='true' lat='-33.6130784' lon='151.2962947'>
     <tag k='source' v='survey' />
