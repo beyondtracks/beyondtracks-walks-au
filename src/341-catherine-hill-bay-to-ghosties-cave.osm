@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <node id='-45763' action='modify' lat='-33.1574482' lon='151.628623'>
-    <tag k='created_by' v='Merkaartor 0.13' />
-  </node>
+  <node id='-45763' action='modify' lat='-33.1574482' lon='151.628623' />
   <node id='-45764' action='modify' lat='-33.157425836' lon='151.62871551901' />
   <node id='-45765' action='modify' lat='-33.15737409956' lon='151.62891937669' />
   <node id='-45766' action='modify' lat='-33.15737979762' lon='151.62899851665' />
