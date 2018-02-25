@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-83236' action='modify' lat='-34.2437648' lon='150.5174131' />
+  <node id='-83237' action='modify' lat='-34.2447766' lon='150.516469' />
+  <node id='-83238' action='modify' lat='-34.2452289' lon='150.5160613' />
+  <node id='-83239' action='modify' lat='-34.2459118' lon='150.5154176' />
+  <node id='-83240' action='modify' lat='-34.2462533' lon='150.5146451' />
+  <node id='-83241' action='modify' lat='-34.2451666' lon='150.5059735' />
+  <node id='-83242' action='modify' lat='-34.2451035' lon='150.5060083' />
+  <node id='-83243' action='modify' lat='-34.2449852' lon='150.5060734' />
+  <node id='-83244' action='modify' lat='-34.2439339' lon='150.520611' />
+  <node id='-83245' action='modify' lat='-34.243376' lon='150.5195626' />
+  <node id='-83246' action='modify' lat='-34.2435317' lon='150.5185947' />
+  <node id='-83247' action='modify' lat='-34.2437612' lon='150.5177895' />
+  <node id='-83326' action='modify' lat='-34.2463464' lon='150.5135239' />
+  <node id='-83327' action='modify' lat='-34.2460537' lon='150.5130894' />
+  <node id='-83328' action='modify' lat='-34.2462755' lon='150.5126012' />
+  <node id='-83329' action='modify' lat='-34.2461868' lon='150.5120755' />
+  <node id='-83330' action='modify' lat='-34.2462355' lon='150.5115444' />
+  <node id='-83331' action='modify' lat='-34.2460183' lon='150.5104286' />
+  <node id='-83332' action='modify' lat='-34.2459961' lon='150.5098815' />
+  <node id='-83333' action='modify' lat='-34.2460271' lon='150.5093504' />
+  <node id='-83334' action='modify' lat='-34.2461247' lon='150.5088247' />
+  <node id='-83335' action='modify' lat='-34.2460582' lon='150.5082561' />
+  <node id='-83336' action='modify' lat='-34.2460404' lon='150.5077142' />
+  <node id='-83337' action='modify' lat='-34.2459917' lon='150.5071349' />
+  <node id='-83338' action='modify' lat='-34.2457877' lon='150.5066199' />
+  <node id='-83339' action='modify' lat='-34.24573' lon='150.5060566' />
+  <node id='-83340' action='modify' lat='-34.2453176' lon='150.5058903' />
+  <way id='-83356' action='modify'>
+    <nd ref='-83244' />
+    <nd ref='-83245' />
+    <nd ref='-83246' />
+    <nd ref='-83247' />
+    <nd ref='-83236' />
+    <nd ref='-83237' />
+    <nd ref='-83238' />
+    <nd ref='-83239' />
+    <nd ref='-83240' />
+    <nd ref='-83326' />
+    <nd ref='-83327' />
+    <nd ref='-83328' />
+    <nd ref='-83329' />
+    <nd ref='-83330' />
+    <nd ref='-83331' />
+    <nd ref='-83332' />
+    <nd ref='-83333' />
+    <nd ref='-83334' />
+    <nd ref='-83335' />
+    <nd ref='-83336' />
+    <nd ref='-83337' />
+    <nd ref='-83338' />
+    <nd ref='-83339' />
+    <nd ref='-83340' />
+    <nd ref='-83241' />
+    <nd ref='-83242' />
+    <nd ref='-83243' />
+    <tag k='name' v='Dobson&apos;s Cave' />
+    <tag k='park' v='Nattai National Park' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>

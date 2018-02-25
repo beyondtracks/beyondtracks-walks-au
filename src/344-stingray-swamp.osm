@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-47592' action='modify' lat='-34.63577503527' lon='150.25490377303' />
+  <node id='-47593' action='modify' lat='-34.63587936893' lon='150.25474324688' />
+  <node id='-47594' action='modify' lat='-34.6362584' lon='150.254491' />
+  <node id='-47595' action='modify' lat='-34.6365179' lon='150.2543412' />
+  <node id='-47596' action='modify' lat='-34.6368636' lon='150.2537536' />
+  <node id='-47597' action='modify' lat='-34.6369327' lon='150.2533388' />
+  <node id='-47598' action='modify' lat='-34.6375376' lon='150.2524401' />
+  <node id='-47599' action='modify' lat='-34.6379005' lon='150.2514205' />
+  <node id='-47600' action='modify' lat='-34.63802331502' lon='150.25047451124' />
+  <node id='-47601' action='modify' lat='-34.6380170263' lon='150.2497520785' />
+  <node id='-47602' action='modify' lat='-34.63808305914' lon='150.24957350612' />
+  <node id='-47603' action='modify' lat='-34.6380564161' lon='150.24930774897' />
+  <node id='-47604' action='modify' lat='-34.63827047655' lon='150.24810880154' />
+  <node id='-47605' action='modify' lat='-34.6384363' lon='150.2465468' />
+  <node id='-47606' action='modify' lat='-34.6385918' lon='150.2446976' />
+  <node id='-47607' action='modify' lat='-34.638588256' lon='150.24387359351' />
+  <node id='-47608' action='modify' lat='-34.6393868' lon='150.2411028' />
+  <node id='-47609' action='modify' lat='-34.63989246308' lon='150.23975640267' />
+  <node id='-47610' action='modify' lat='-34.6405275' lon='150.2387524' />
+  <node id='-47611' action='modify' lat='-34.6421693' lon='150.2370241' />
+  <node id='-47612' action='modify' lat='-34.6443469' lon='150.2351576' />
+  <node id='-47613' action='modify' lat='-34.6449864' lon='150.2342589' />
+  <node id='-47614' action='modify' lat='-34.64546655858' lon='150.23322254151' />
+  <node id='-47615' action='modify' lat='-34.6457986' lon='150.2317184' />
+  <node id='-47616' action='modify' lat='-34.64596407459' lon='150.23089513869' />
+  <node id='-47617' action='modify' lat='-34.6457761811' lon='150.22979524114' />
+  <node id='-47618' action='modify' lat='-34.64585927123' lon='150.22773856865' />
+  <node id='-47627' action='modify' lat='-34.64572013878' lon='150.22769218955' />
+  <node id='-47628' action='modify' lat='-34.6454398' lon='150.2275588' />
+  <node id='-47629' action='modify' lat='-34.645306' lon='150.2275477' />
+  <node id='-47630' action='modify' lat='-34.6450609' lon='150.2276257' />
+  <node id='-47631' action='modify' lat='-34.6448714' lon='150.2276034' />
+  <node id='-47632' action='modify' lat='-34.6445594' lon='150.2275811' />
+  <node id='-47633' action='modify' lat='-34.6443365' lon='150.2276368' />
+  <node id='-47634' action='modify' lat='-34.6440467' lon='150.2277037' />
+  <node id='-47635' action='modify' lat='-34.6437792' lon='150.2276368' />
+  <node id='-47645' action='modify' lat='-34.64362567167' lon='150.22768042915' />
+  <node id='-47646' action='modify' lat='-34.64348223843' lon='150.22763818435' />
+  <node id='-47647' action='modify' lat='-34.64340279837' lon='150.22761873834' />
+  <node id='-47648' action='modify' lat='-34.64338374196' lon='150.2276200371' />
+  <way id='-47590' action='modify'>
+    <nd ref='-47592' />
+    <nd ref='-47593' />
+    <nd ref='-47594' />
+    <nd ref='-47595' />
+    <nd ref='-47596' />
+    <nd ref='-47597' />
+    <nd ref='-47598' />
+    <nd ref='-47599' />
+    <nd ref='-47600' />
+    <nd ref='-47601' />
+    <nd ref='-47602' />
+    <nd ref='-47603' />
+    <nd ref='-47604' />
+    <nd ref='-47605' />
+    <nd ref='-47606' />
+    <nd ref='-47607' />
+    <nd ref='-47608' />
+    <nd ref='-47609' />
+    <nd ref='-47610' />
+    <nd ref='-47611' />
+    <nd ref='-47612' />
+    <nd ref='-47613' />
+    <nd ref='-47614' />
+    <nd ref='-47615' />
+    <nd ref='-47616' />
+    <nd ref='-47617' />
+    <nd ref='-47618' />
+    <nd ref='-47627' />
+    <nd ref='-47628' />
+    <nd ref='-47629' />
+    <nd ref='-47630' />
+    <nd ref='-47631' />
+    <nd ref='-47632' />
+    <nd ref='-47633' />
+    <nd ref='-47634' />
+    <nd ref='-47635' />
+    <nd ref='-47645' />
+    <nd ref='-47646' />
+    <nd ref='-47647' />
+    <nd ref='-47648' />
+    <tag k='name' v='Stingray Swamp' />
+    <tag k='park' v='Stingray Swamp Flora Reserve' />
+    <tag k='role' v='primary' />
+    <tag k='style' v='return' />
+    <tag k='transport' v='car' />
+  </way>
+</osm>
