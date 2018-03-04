@@ -1,46 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='false' generator='JOSM'>
-  <node id='-51981' action='modify' lat='-33.7830748' lon='150.5772844' />
-  <node id='-51982' action='modify' lat='-33.783057' lon='150.5771182' />
-  <node id='-51983' action='modify' lat='-33.78295' lon='150.5765817' />
-  <node id='-51984' action='modify' lat='-33.783164' lon='150.576174' />
-  <node id='-51985' action='modify' lat='-33.7835564' lon='150.575702' />
-  <node id='-51986' action='modify' lat='-33.7837525' lon='150.5750368' />
-  <node id='-51987' action='modify' lat='-33.783699' lon='150.574436' />
-  <node id='-51988' action='modify' lat='-33.7836812' lon='150.5737922' />
-  <node id='-51989' action='modify' lat='-33.7835564' lon='150.573127' />
-  <node id='-51990' action='modify' lat='-33.7834672' lon='150.5725262' />
-  <node id='-51991' action='modify' lat='-33.7833245' lon='150.5720327' />
-  <node id='-51992' action='modify' lat='-33.783164' lon='150.5714319' />
-  <node id='-51993' action='modify' lat='-33.7829678' lon='150.5709813' />
-  <node id='-51994' action='modify' lat='-33.782736' lon='150.5706809' />
-  <node id='-51995' action='modify' lat='-33.7825933' lon='150.5703805' />
-  <node id='-51996' action='modify' lat='-33.7826111' lon='150.5702088' />
-  <node id='-51997' action='modify' lat='-33.7828786' lon='150.5700157' />
-  <node id='-51998' action='modify' lat='-33.7831283' lon='150.5697582' />
-  <node id='-51999' action='modify' lat='-33.78332' lon='150.5694685' />
-  <way id='-51980' action='modify'>
-    <nd ref='-51981' />
-    <nd ref='-51982' />
-    <nd ref='-51983' />
-    <nd ref='-51984' />
-    <nd ref='-51985' />
-    <nd ref='-51986' />
-    <nd ref='-51987' />
-    <nd ref='-51988' />
-    <nd ref='-51989' />
-    <nd ref='-51990' />
-    <nd ref='-51991' />
-    <nd ref='-51992' />
-    <nd ref='-51993' />
-    <nd ref='-51994' />
-    <nd ref='-51995' />
-    <nd ref='-51996' />
-    <nd ref='-51997' />
-    <nd ref='-51998' />
-    <nd ref='-51999' />
+  <node id='-47352' action='modify' lat='-33.7830748' lon='150.5772844' />
+  <node id='-47354' action='modify' lat='-33.783057' lon='150.5771182' />
+  <node id='-47356' action='modify' lat='-33.78295' lon='150.5765817' />
+  <node id='-47358' action='modify' lat='-33.783164' lon='150.576174' />
+  <node id='-47360' action='modify' lat='-33.7835564' lon='150.575702' />
+  <node id='-47362' action='modify' lat='-33.7837525' lon='150.5750368' />
+  <node id='-47364' action='modify' lat='-33.783699' lon='150.574436' />
+  <node id='-47366' action='modify' lat='-33.7836812' lon='150.5737922' />
+  <node id='-47368' action='modify' lat='-33.7835564' lon='150.573127' />
+  <node id='-47370' action='modify' lat='-33.7834672' lon='150.5725262' />
+  <node id='-47372' action='modify' lat='-33.7833245' lon='150.5720327' />
+  <node id='-47374' action='modify' lat='-33.783164' lon='150.5714319' />
+  <node id='-47376' action='modify' lat='-33.7829678' lon='150.5709813' />
+  <node id='-47378' action='modify' lat='-33.782736' lon='150.5706809' />
+  <node id='-47380' action='modify' lat='-33.7825933' lon='150.5703805' />
+  <node id='-47382' action='modify' lat='-33.7826111' lon='150.5702088' />
+  <node id='-47384' action='modify' lat='-33.7828786' lon='150.5700157' />
+  <node id='-47386' action='modify' lat='-33.7831283' lon='150.5697582' />
+  <node id='-47388' action='modify' lat='-33.78332' lon='150.5694685' />
+  <way id='-47390' action='modify'>
+    <nd ref='-47352' />
+    <nd ref='-47354' />
+    <nd ref='-47356' />
+    <nd ref='-47358' />
+    <nd ref='-47360' />
+    <nd ref='-47362' />
+    <nd ref='-47364' />
+    <nd ref='-47366' />
+    <nd ref='-47368' />
+    <nd ref='-47370' />
+    <nd ref='-47372' />
+    <nd ref='-47374' />
+    <nd ref='-47376' />
+    <nd ref='-47378' />
+    <nd ref='-47380' />
+    <nd ref='-47382' />
+    <nd ref='-47384' />
+    <nd ref='-47386' />
+    <nd ref='-47388' />
     <tag k='name' v='Crayfish Pool' />
     <tag k='park' v='Blue Mountains National Park' />
+    <tag k='photo' v='38799574470' />
     <tag k='role' v='primary' />
     <tag k='style' v='return' />
     <tag k='transport' v='car' />
