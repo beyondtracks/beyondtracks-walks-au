@@ -1,3 +1,5 @@
+# MOVED to https://gitlab.com/beyondtracks/beyondtracks-walks
+
 These are the source files defining walks on [www.beyondtracks.com](https://www.beyondtracks.com).
 
 They were created in [JOSM](https://josm.openstreetmap.de/) partially derived from OpenStreetMap data. Around 95% of the geometries were copied from OpenStreetMap data the other was from personal GPS track recordings. In some cases, names were also from OpenStreetMap but mostly they are self sourced.
